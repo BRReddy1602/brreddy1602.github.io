@@ -358,34 +358,20 @@ var AppComponent = /** @class */ (function () {
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_17_fusioncharts_fusioncharts_charts___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_17_fusioncharts_fusioncharts_charts__);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_18__components_todo_list_todo_list_component__ = __webpack_require__("./src/app/components/todo-list/todo-list.component.ts");
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_19__components_form_form_component__ = __webpack_require__("./src/app/components/form/form.component.ts");
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_20__modules_admin_students_students_component__ = __webpack_require__("./src/app/modules/admin/students/students.component.ts");
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_21__components_modal_dialog_modal_dialog_component__ = __webpack_require__("./src/app/components/modal-dialog/modal-dialog.component.ts");
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_22__modules_admin_professors_professors_component__ = __webpack_require__("./src/app/modules/admin/professors/professors.component.ts");
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_23__modules_admin_librarian_librarian_component__ = __webpack_require__("./src/app/modules/admin/librarian/librarian.component.ts");
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_24__modules_admin_attandance_attandance_component__ = __webpack_require__("./src/app/modules/admin/attandance/attandance.component.ts");
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_25__modules_admin_results_results_component__ = __webpack_require__("./src/app/modules/admin/results/results.component.ts");
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_26__modules_admin_feedback_feedback_component__ = __webpack_require__("./src/app/modules/admin/feedback/feedback.component.ts");
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_27__modules_admin_departments_departments_component__ = __webpack_require__("./src/app/modules/admin/departments/departments.component.ts");
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_28__modules_admin_transport_transport_component__ = __webpack_require__("./src/app/modules/admin/transport/transport.component.ts");
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_29__modules_admin_hostel_hostel_component__ = __webpack_require__("./src/app/modules/admin/hostel/hostel.component.ts");
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_30__modules_admin_employee_employee_component__ = __webpack_require__("./src/app/modules/admin/employee/employee.component.ts");
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_31__components_details_details_component__ = __webpack_require__("./src/app/components/details/details.component.ts");
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_32__modules_admin_staff_staff_component__ = __webpack_require__("./src/app/modules/admin/staff/staff.component.ts");
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_33__modules_admin_subjects_subjects_component__ = __webpack_require__("./src/app/modules/admin/subjects/subjects.component.ts");
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_34_ng_fullcalendar__ = __webpack_require__("./node_modules/ng-fullcalendar/ng-fullcalendar.es5.js");
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_35__components_star_rating_star_rating_component__ = __webpack_require__("./src/app/components/star-rating/star-rating.component.ts");
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_36__components_login_login_component__ = __webpack_require__("./src/app/components/login/login.component.ts");
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_37__components_main_main_component__ = __webpack_require__("./src/app/components/main/main.component.ts");
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_38__routing_module__ = __webpack_require__("./src/app/routing.module.ts");
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_39__modules_admin_courses_courses_component__ = __webpack_require__("./src/app/modules/admin/courses/courses.component.ts");
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_40__modules_admin_phase_management_phase_management_component__ = __webpack_require__("./src/app/modules/admin/phase-management/phase-management.component.ts");
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_41__modules_admin_units_management_units_management_component__ = __webpack_require__("./src/app/modules/admin/units-management/units-management.component.ts");
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_42__modules_admin_sheep_management_sheep_management_component__ = __webpack_require__("./src/app/modules/admin/sheep-management/sheep-management.component.ts");
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_43__modules_admin_staff_management_staff_management_component__ = __webpack_require__("./src/app/modules/admin/staff-management/staff-management.component.ts");
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_44__modules_admin_customers_management_customers_management_component__ = __webpack_require__("./src/app/modules/admin/customers-management/customers-management.component.ts");
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_45__modules_admin_expenses_management_expenses_management_component__ = __webpack_require__("./src/app/modules/admin/expenses-management/expenses-management.component.ts");
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_46__modules_admin_security_management_security_management_component__ = __webpack_require__("./src/app/modules/admin/security-management/security-management.component.ts");
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_47__modules_admin_cattle_management_cattle_management_component__ = __webpack_require__("./src/app/modules/admin/cattle-management/cattle-management.component.ts");
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_20__components_modal_dialog_modal_dialog_component__ = __webpack_require__("./src/app/components/modal-dialog/modal-dialog.component.ts");
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_21_ng_fullcalendar__ = __webpack_require__("./node_modules/ng-fullcalendar/ng-fullcalendar.es5.js");
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_22__components_star_rating_star_rating_component__ = __webpack_require__("./src/app/components/star-rating/star-rating.component.ts");
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_23__components_login_login_component__ = __webpack_require__("./src/app/components/login/login.component.ts");
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_24__components_main_main_component__ = __webpack_require__("./src/app/components/main/main.component.ts");
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_25__routing_module__ = __webpack_require__("./src/app/routing.module.ts");
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_26__modules_admin_phase_management_phase_management_component__ = __webpack_require__("./src/app/modules/admin/phase-management/phase-management.component.ts");
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_27__modules_admin_units_management_units_management_component__ = __webpack_require__("./src/app/modules/admin/units-management/units-management.component.ts");
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_28__modules_admin_sheep_management_sheep_management_component__ = __webpack_require__("./src/app/modules/admin/sheep-management/sheep-management.component.ts");
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_29__modules_admin_staff_management_staff_management_component__ = __webpack_require__("./src/app/modules/admin/staff-management/staff-management.component.ts");
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_30__modules_admin_customers_management_customers_management_component__ = __webpack_require__("./src/app/modules/admin/customers-management/customers-management.component.ts");
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_31__modules_admin_expenses_management_expenses_management_component__ = __webpack_require__("./src/app/modules/admin/expenses-management/expenses-management.component.ts");
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_32__modules_admin_security_management_security_management_component__ = __webpack_require__("./src/app/modules/admin/security-management/security-management.component.ts");
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_33__modules_admin_cattle_management_cattle_management_component__ = __webpack_require__("./src/app/modules/admin/cattle-management/cattle-management.component.ts");
 var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
     var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
     if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
@@ -429,20 +415,6 @@ var __decorate = (this && this.__decorate) || function (decorators, target, key,
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 var AppModule = /** @class */ (function () {
     function AppModule() {
     }
@@ -457,34 +429,20 @@ var AppModule = /** @class */ (function () {
                 __WEBPACK_IMPORTED_MODULE_13__components_chart_chart_component__["a" /* ChartComponent */],
                 __WEBPACK_IMPORTED_MODULE_18__components_todo_list_todo_list_component__["a" /* TodoListComponent */],
                 __WEBPACK_IMPORTED_MODULE_19__components_form_form_component__["a" /* FormComponent */],
-                __WEBPACK_IMPORTED_MODULE_20__modules_admin_students_students_component__["a" /* StudentsComponent */],
-                __WEBPACK_IMPORTED_MODULE_21__components_modal_dialog_modal_dialog_component__["a" /* ModalDialogComponent */],
-                __WEBPACK_IMPORTED_MODULE_22__modules_admin_professors_professors_component__["a" /* ProfessorsComponent */],
-                __WEBPACK_IMPORTED_MODULE_23__modules_admin_librarian_librarian_component__["a" /* LibrarianComponent */],
-                __WEBPACK_IMPORTED_MODULE_24__modules_admin_attandance_attandance_component__["a" /* AttandanceComponent */],
-                __WEBPACK_IMPORTED_MODULE_25__modules_admin_results_results_component__["a" /* ResultsComponent */],
-                __WEBPACK_IMPORTED_MODULE_26__modules_admin_feedback_feedback_component__["a" /* FeedbackComponent */],
-                __WEBPACK_IMPORTED_MODULE_27__modules_admin_departments_departments_component__["a" /* DepartmentsComponent */],
-                __WEBPACK_IMPORTED_MODULE_28__modules_admin_transport_transport_component__["a" /* TransportComponent */],
-                __WEBPACK_IMPORTED_MODULE_29__modules_admin_hostel_hostel_component__["a" /* HostelComponent */],
-                __WEBPACK_IMPORTED_MODULE_30__modules_admin_employee_employee_component__["a" /* EmployeeComponent */],
-                __WEBPACK_IMPORTED_MODULE_31__components_details_details_component__["a" /* DetailsComponent */],
-                __WEBPACK_IMPORTED_MODULE_32__modules_admin_staff_staff_component__["a" /* StaffComponent */],
-                __WEBPACK_IMPORTED_MODULE_33__modules_admin_subjects_subjects_component__["a" /* SubjectsComponent */],
-                __WEBPACK_IMPORTED_MODULE_35__components_star_rating_star_rating_component__["a" /* StarRatingComponent */],
-                __WEBPACK_IMPORTED_MODULE_36__components_login_login_component__["a" /* LoginComponent */],
-                __WEBPACK_IMPORTED_MODULE_37__components_main_main_component__["a" /* MainComponent */],
-                __WEBPACK_IMPORTED_MODULE_39__modules_admin_courses_courses_component__["a" /* CoursesComponent */],
-                __WEBPACK_IMPORTED_MODULE_40__modules_admin_phase_management_phase_management_component__["a" /* PhaseManagementComponent */],
-                __WEBPACK_IMPORTED_MODULE_41__modules_admin_units_management_units_management_component__["a" /* UnitsManagementComponent */],
-                __WEBPACK_IMPORTED_MODULE_42__modules_admin_sheep_management_sheep_management_component__["a" /* SheepManagementComponent */],
-                __WEBPACK_IMPORTED_MODULE_43__modules_admin_staff_management_staff_management_component__["a" /* StaffManagementComponent */],
-                __WEBPACK_IMPORTED_MODULE_44__modules_admin_customers_management_customers_management_component__["a" /* CustomersManagementComponent */],
-                __WEBPACK_IMPORTED_MODULE_45__modules_admin_expenses_management_expenses_management_component__["a" /* ExpensesManagementComponent */],
-                __WEBPACK_IMPORTED_MODULE_46__modules_admin_security_management_security_management_component__["a" /* SecurityManagementComponent */],
-                __WEBPACK_IMPORTED_MODULE_47__modules_admin_cattle_management_cattle_management_component__["a" /* CattleManagementComponent */]
+                __WEBPACK_IMPORTED_MODULE_20__components_modal_dialog_modal_dialog_component__["a" /* ModalDialogComponent */],
+                __WEBPACK_IMPORTED_MODULE_22__components_star_rating_star_rating_component__["a" /* StarRatingComponent */],
+                __WEBPACK_IMPORTED_MODULE_23__components_login_login_component__["a" /* LoginComponent */],
+                __WEBPACK_IMPORTED_MODULE_24__components_main_main_component__["a" /* MainComponent */],
+                __WEBPACK_IMPORTED_MODULE_26__modules_admin_phase_management_phase_management_component__["a" /* PhaseManagementComponent */],
+                __WEBPACK_IMPORTED_MODULE_27__modules_admin_units_management_units_management_component__["a" /* UnitsManagementComponent */],
+                __WEBPACK_IMPORTED_MODULE_28__modules_admin_sheep_management_sheep_management_component__["a" /* SheepManagementComponent */],
+                __WEBPACK_IMPORTED_MODULE_29__modules_admin_staff_management_staff_management_component__["a" /* StaffManagementComponent */],
+                __WEBPACK_IMPORTED_MODULE_30__modules_admin_customers_management_customers_management_component__["a" /* CustomersManagementComponent */],
+                __WEBPACK_IMPORTED_MODULE_31__modules_admin_expenses_management_expenses_management_component__["a" /* ExpensesManagementComponent */],
+                __WEBPACK_IMPORTED_MODULE_32__modules_admin_security_management_security_management_component__["a" /* SecurityManagementComponent */],
+                __WEBPACK_IMPORTED_MODULE_33__modules_admin_cattle_management_cattle_management_component__["a" /* CattleManagementComponent */]
             ],
-            entryComponents: [__WEBPACK_IMPORTED_MODULE_12__components_popup_popup_component__["a" /* PopupComponent */], __WEBPACK_IMPORTED_MODULE_31__components_details_details_component__["a" /* DetailsComponent */]],
+            entryComponents: [__WEBPACK_IMPORTED_MODULE_12__components_popup_popup_component__["a" /* PopupComponent */]],
             imports: [
                 __WEBPACK_IMPORTED_MODULE_0__angular_platform_browser__["a" /* BrowserModule */],
                 __WEBPACK_IMPORTED_MODULE_7__material_module__["a" /* MaterialModule */],
@@ -492,9 +450,9 @@ var AppModule = /** @class */ (function () {
                 __WEBPACK_IMPORTED_MODULE_3__angular_http__["a" /* HttpModule */],
                 __WEBPACK_IMPORTED_MODULE_4__angular_common_http__["b" /* HttpClientModule */],
                 __WEBPACK_IMPORTED_MODULE_5__angular_forms__["c" /* FormsModule */],
-                __WEBPACK_IMPORTED_MODULE_34_ng_fullcalendar__["a" /* FullCalendarModule */],
+                __WEBPACK_IMPORTED_MODULE_21_ng_fullcalendar__["a" /* FullCalendarModule */],
                 __WEBPACK_IMPORTED_MODULE_15_angular2_fusioncharts__["FusionChartsModule"].forRoot(__WEBPACK_IMPORTED_MODULE_16_fusioncharts__, __WEBPACK_IMPORTED_MODULE_17_fusioncharts_fusioncharts_charts__),
-                __WEBPACK_IMPORTED_MODULE_38__routing_module__["a" /* RoutingModule */],
+                __WEBPACK_IMPORTED_MODULE_25__routing_module__["a" /* RoutingModule */],
             ],
             providers: [__WEBPACK_IMPORTED_MODULE_10__services_data_service__["a" /* DataService */], __WEBPACK_IMPORTED_MODULE_11__todo_data_service__["a" /* TodoDataService */]],
             bootstrap: [__WEBPACK_IMPORTED_MODULE_6__app_component__["a" /* AppComponent */]]
@@ -970,75 +928,10 @@ var DataGridComponent = /** @class */ (function () {
 
 /***/ }),
 
-/***/ "./src/app/components/details/details.component.html":
-/***/ (function(module, exports) {
-
-module.exports = "<form class=\"popup-form\">\r\n    <div class=\"row popup-header\">{{data.name}}</div>\r\n    <div *ngIf=\"!data.readOnly\">\r\n      <add-form [fields]='data.fields' [(newRecord)]='data.data' [button]=\"data.button\" (onAdd)=\"addDetail($event)\" (onCancel)=\"closePopup()\"></add-form>\r\n    </div>\r\n    <div *ngIf=\"data.readOnly\">\r\n      <add-form [fields]='data.fields' [(newRecord)]='data.data' [button]=\"data.button\" [editable]=\"data.readOnly\" (onAdd)=\"addDetail($event)\" (onCancel)=\"closePopup()\"></add-form>\r\n    </div>\r\n  </form>"
-
-/***/ }),
-
-/***/ "./src/app/components/details/details.component.scss":
-/***/ (function(module, exports) {
-
-module.exports = ".popup-header {\n  min-width: 50vw;\n  min-height: 5vw;\n  font-size: 20px;\n  padding-top: 10px;\n  padding-left: 25px;\n  color: #fff;\n  background: #ccc;\n  font-weight: bolder; }\n"
-
-/***/ }),
-
-/***/ "./src/app/components/details/details.component.ts":
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return DetailsComponent; });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__("./node_modules/@angular/core/esm5/core.js");
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__angular_material__ = __webpack_require__("./node_modules/@angular/material/esm5/material.es5.js");
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__services_data_service__ = __webpack_require__("./src/app/services/data.service.ts");
-var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
-    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
-    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
-    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
-    return c > 3 && r && Object.defineProperty(target, key, r), r;
-};
-var __metadata = (this && this.__metadata) || function (k, v) {
-    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
-};
-var __param = (this && this.__param) || function (paramIndex, decorator) {
-    return function (target, key) { decorator(target, key, paramIndex); }
-};
-
-
-
-var DetailsComponent = /** @class */ (function () {
-    function DetailsComponent(data, dataService, dialogRef) {
-        this.data = data;
-        this.dataService = dataService;
-        this.dialogRef = dialogRef;
-    }
-    DetailsComponent.prototype.ngOnInit = function () {
-        console.log('details init');
-    };
-    DetailsComponent.prototype.cancel = function () {
-        console.log('cancel');
-    };
-    DetailsComponent = __decorate([
-        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Component"])({
-            selector: 'details',
-            template: __webpack_require__("./src/app/components/details/details.component.html"),
-            styles: [__webpack_require__("./src/app/components/details/details.component.scss")]
-        }),
-        __param(0, Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Inject"])(__WEBPACK_IMPORTED_MODULE_1__angular_material__["a" /* MAT_DIALOG_DATA */])),
-        __metadata("design:paramtypes", [Object, __WEBPACK_IMPORTED_MODULE_2__services_data_service__["a" /* DataService */], __WEBPACK_IMPORTED_MODULE_1__angular_material__["k" /* MatDialogRef */]])
-    ], DetailsComponent);
-    return DetailsComponent;
-}());
-
-
-
-/***/ }),
-
 /***/ "./src/app/components/form/form.component.html":
 /***/ (function(module, exports) {
 
-module.exports = "<div class=\"form-wrapper\">\n  <span *ngFor=\"let field of fields\">\n    <mat-form-field *ngIf=\"field.element==='input' && !field.hide\">\n      <input matInput placeholder=\"{{field.label}}\" [(ngModel)]='newRecord[field.field]'>\n    </mat-form-field>\n    <mat-form-field *ngIf=\"field.element==='number'\" class=\"input-image\">\n      <input matInput placeholder=\"{{field.label}}\" onkeyup=\"newRecord[field.field]=newRecord[field.field].replace(/[^\\d]/,'')\"\n        [(ngModel)]='newRecord[field.field]'>\n    </mat-form-field>\n    <span *ngIf=\"field.element==='image' && !field.hide\" class=\"input-image\">\n      <button mat-raised-button (click)=\"fileInput.click()\">\n        <mat-icon>add_a_photo</mat-icon>\n        <span>{{field.label}}</span>\n        <input #fileInput type=\"file\" (change)=\"onFileInput($event)\" accept=\"image/*\" placeholder=\"{{field.field}}\" [(ngModel)]='newRecord[field.field]'\n          style=\"display:none;\">\n      </button>\n    </span>\n    <span *ngIf=\"field.element==='fileUpload'\">\n      <button mat-raised-button (click)=\"fileInput.click()\">\n        <mat-icon>file_upload</mat-icon>\n        <span>{{field.label}}</span>\n        <input #fileInput type=\"file\" (change)=\"onFileInput($event)\" placeholder=\"{{field.field}}\" [(ngModel)]='newRecord[field.field]'\n          style=\"display:none;\">\n      </button>\n    </span>\n    <mat-form-field *ngIf=\"field.element==='dropdown' && !field.multiple && !field.hide\">\n      <mat-select placeholder=\"{{field.label}}\" [(ngModel)]='newRecord[field.field]' [(value)]='newRecord[field.field]'>\n        <mat-option *ngFor=\"let value of field.values\" [value]=\"value.subjectName || value[field.field] ||value.name || value.id|| value\">\n          {{ value.subjectName || value[field.field] || value.name || value.id || value}}\n        </mat-option>\n      </mat-select>\n    </mat-form-field>\n    <mat-form-field *ngIf=\"field.element==='dropdown' && field.multiple\">\n      <mat-select placeholder=\"{{field.label}}\" [(ngModel)]=\"newRecord[field.field]\" [(value)]='newRecord[field.field]' multiple>\n        <mat-option *ngFor=\"let value of field.values\" [value]=\"value[field.field] ||value.name || value.id|| value\">\n          {{ value[field.field] ||value.name || value.id|| value}}\n        </mat-option>\n      </mat-select>\n    </mat-form-field>\n    <mat-form-field *ngIf=\"field.element==='valuehelp'\">\n      <mat-select (click)=\"listValues = getValues(field)\" placeholder=\"{{field.label}}\" [(value)]='newRecord[field.field]'>\n        <mat-option *ngFor=\"let value of listValues\" [value]=\"value.id\">\n          {{ value[field.field] || value.name || value.id}}\n        </mat-option>\n      </mat-select>\n    </mat-form-field>\n\n    <mat-form-field *ngIf=\"field.element==='date'\">\n      <input matInput [matDatepicker]=\"picker\" [(ngModel)]='newRecord[field.field]' placeholder=\"{{field.label}}\">\n      <mat-datepicker-toggle matSuffix [for]=\"picker\"></mat-datepicker-toggle>\n      <mat-datepicker #picker></mat-datepicker>\n    </mat-form-field>\n  </span>\n  <br/>\n  <div class=\"buttons-row\">\n    <button color=\"primary\" mat-raised-button (click)=\"addClick()\">\n      <mat-icon>add_circle</mat-icon> {{ button || 'Add'}}\n    </button>\n    <button mat-raised-button color=\"warn\" (click)=\"cancel()\">\n      <mat-icon>cancel</mat-icon> Cancel\n    </button>\n  </div>\n\n</div>"
+module.exports = "<div class=\"form-wrapper\">\n  <span *ngFor=\"let field of fields\">\n    <mat-form-field *ngIf=\"field.element==='input' && !field.hide\">\n      <input matInput placeholder=\"{{field.label}}\" [(ngModel)]='newRecord[field.field]'>\n    </mat-form-field>\n    <mat-form-field *ngIf=\"field.element==='number'\" class=\"input-image\">\n      <input matInput placeholder=\"{{field.label}}\" onkeyup=\"newRecord[field.field]=newRecord[field.field].replace(/[^\\d]/,'')\"\n        [(ngModel)]='newRecord[field.field]'>\n    </mat-form-field>\n    <span *ngIf=\"field.element==='image' && !field.hide\" class=\"input-image\">\n      <button mat-raised-button (click)=\"fileInput.click()\">\n        <mat-icon>add_a_photo</mat-icon>\n        <span>{{field.label}}</span>\n        <input #fileInput type=\"file\" (change)=\"onFileInput($event)\" accept=\"\" placeholder=\"{{field.field}}\" [(ngModel)]='newRecord[field.field]'\n          style=\"display:none;\">\n      </button>\n    </span>\n    <span *ngIf=\"field.element==='fileUpload'\">\n      <button mat-raised-button (click)=\"fileInput.click()\">\n        <mat-icon>file_upload</mat-icon>\n        <span>{{field.label}}</span>\n        <input #fileInput type=\"file\" (change)=\"onFileInput($event,field)\" placeholder=\"{{field.field}}\" style=\"display:none;\">\n      </button>\n    </span>\n    <mat-form-field *ngIf=\"field.element==='dropdown' && !field.multiple && !field.hide\">\n      <mat-select placeholder=\"{{field.label}}\" [(ngModel)]='newRecord[field.field]' [(value)]='newRecord[field.field]'>\n        <mat-option *ngFor=\"let value of field.values\" [value]=\"value.subjectName || value[field.field] ||value.name || value.id|| value\">\n         <span *ngIf=\"!field.value\">{{ value.subjectName || value[field.field] || value.name || value.id || value}}</span> \n         <span *ngIf=\"field.value\">{{value.value}}</span>\n        </mat-option>\n      </mat-select>\n    </mat-form-field>\n    <mat-form-field *ngIf=\"field.element==='dropdown' && field.multiple\">\n      <mat-select placeholder=\"{{field.label}}\" [(ngModel)]=\"newRecord[field.field]\" [(value)]='newRecord[field.field]' multiple>\n        <mat-option *ngFor=\"let value of field.values\" [value]=\"value[field.field] ||value.name || value.id|| value\">\n          {{ value[field.field] ||value.name || value.id|| value}}\n        </mat-option>\n      </mat-select>\n    </mat-form-field>\n    <mat-form-field *ngIf=\"field.element==='valuehelp'\">\n      <mat-select (click)=\"listValues = getValues(field)\" placeholder=\"{{field.label}}\" [(value)]='newRecord[field.field]'>\n        <mat-option *ngFor=\"let value of listValues\" [value]=\"value.id\">\n          {{ value[field.field] || value.name || value.id}}\n        </mat-option>\n      </mat-select>\n    </mat-form-field>\n\n    <mat-form-field *ngIf=\"field.element==='date'\">\n      <input matInput [matDatepicker]=\"picker\" [(ngModel)]='newRecord[field.field]' placeholder=\"{{field.label}}\">\n      <mat-datepicker-toggle matSuffix [for]=\"picker\"></mat-datepicker-toggle>\n      <mat-datepicker #picker></mat-datepicker>\n    </mat-form-field>\n  </span>\n  <br/>\n  <div class=\"buttons-row\">\n    <button color=\"primary\" mat-raised-button (click)=\"addClick()\">\n      <mat-icon>add_circle</mat-icon> {{ button || 'Add'}}\n    </button>\n    <button mat-raised-button color=\"warn\" (click)=\"cancel()\">\n      <mat-icon>cancel</mat-icon> Cancel\n    </button>\n  </div>\n\n</div>"
 
 /***/ }),
 
@@ -1056,6 +949,7 @@ module.exports = ".form-wrapper {\n  padding: 10px; }\n\n.buttons-row {\n  text-
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return FormComponent; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__("./node_modules/@angular/core/esm5/core.js");
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__services_data_service__ = __webpack_require__("./src/app/services/data.service.ts");
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__angular_common_http__ = __webpack_require__("./node_modules/@angular/common/esm5/http.js");
 var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
     var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
     if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
@@ -1067,8 +961,10 @@ var __metadata = (this && this.__metadata) || function (k, v) {
 };
 
 
+
 var FormComponent = /** @class */ (function () {
-    function FormComponent(dataService) {
+    function FormComponent(http, dataService) {
+        this.http = http;
         this.dataService = dataService;
         this.onAdd = new __WEBPACK_IMPORTED_MODULE_0__angular_core__["EventEmitter"]();
         this.onCancel = new __WEBPACK_IMPORTED_MODULE_0__angular_core__["EventEmitter"]();
@@ -1078,13 +974,35 @@ var FormComponent = /** @class */ (function () {
             if (this.fields[i].element === 'date') {
                 this.newRecord[this.fields[i].field] = new Date(this.newRecord[this.fields[i].field]);
             }
-            else if (this.fields[i].element === 'dropdown' && this.fields[i].multiple === true) {
+            else if (this.fields[i].element === 'dropdown' && this.fields[i].multiple === true && this.newRecord[this.fields[i].field] && this.fields[i].string) {
                 this.newRecord[this.fields[i].field] = this.newRecord[this.fields[i].field].split(',');
             }
         }
     };
     FormComponent.prototype.addClick = function () {
         this.onAdd.emit(this.newRecord);
+    };
+    FormComponent.prototype.onFileInput = function ($event, field) {
+        var _this = this;
+        var fileSelected = $event.target.files[0];
+        var _formData = new FormData();
+        _formData.append('file', fileSelected, fileSelected.name);
+        this.http.post('http://13.127.175.211:8088/magnus-management/v1.0/file', _formData)
+            .subscribe(function (data) {
+            console.log(data);
+            debugger;
+        }, function (error) {
+            console.log(error);
+            debugger;
+            _this.newRecord[field.field] = error.error.text;
+        });
+        //     var a = this.http.post('http://13.127.175.211:8088/magnus-management/v1.0/file', _formData); 
+        // this.dataService.uploadFile(fileSelected).subscribe(results => {
+        //   debugger;
+        //   this.newRecord[field.field] = results;
+        //    console.log('set any success actions...');
+        //    return results;
+        //  });
     };
     FormComponent.prototype.cancel = function () {
         this.newRecord = {};
@@ -1130,7 +1048,7 @@ var FormComponent = /** @class */ (function () {
             template: __webpack_require__("./src/app/components/form/form.component.html"),
             styles: [__webpack_require__("./src/app/components/form/form.component.scss")]
         }),
-        __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1__services_data_service__["a" /* DataService */]])
+        __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_2__angular_common_http__["a" /* HttpClient */], __WEBPACK_IMPORTED_MODULE_1__services_data_service__["a" /* DataService */]])
     ], FormComponent);
     return FormComponent;
 }());
@@ -1418,13 +1336,14 @@ var MainComponent = /** @class */ (function () {
     ;
     MainComponent.prototype.logOut = function () {
         var _this = this;
-        this.dataService.getData('user/logout', { "userName": this.dataService.user.username }).subscribe(function (results) {
+        this.dataService.getRequest('logout/' + this.dataService.user.userName).subscribe(function (results) {
             if (!results || results.code === -1) {
                 return;
             }
             _this.user = {};
             _this.router.navigateByUrl('');
         });
+        this.router.navigateByUrl('');
     };
     ;
     MainComponent.prototype.loginSucess = function (data) {
@@ -1809,6 +1728,7 @@ var TodoListComponent = /** @class */ (function () {
         var _this = this;
         //this.todoDataService.deleteTodoById(todo.id);
         this.dataService.deleteData('todolists/' + todo.id).subscribe(function (results) {
+            _this.getTodos();
             if (!results || results.code === -1) {
                 return;
             }
@@ -1826,7 +1746,7 @@ var TodoListComponent = /** @class */ (function () {
                 _this.todos = [];
                 return;
             }
-            _this.todos = results.data;
+            _this.todos = results;
         });
     };
     TodoListComponent.prototype.ngOnInit = function () {
@@ -1939,236 +1859,6 @@ var MaterialModule = /** @class */ (function () {
         })
     ], MaterialModule);
     return MaterialModule;
-}());
-
-
-
-/***/ }),
-
-/***/ "./src/app/modules/admin/attandance/attandance.component.html":
-/***/ (function(module, exports) {
-
-module.exports = "<div class=\"container students-view\">\n  <span class=\"selected-app-name\">{{user.selectedApp.name}}</span>\n  <div class=\"card results\" [style.width.px]=\"data.width\" [style.height.px]=\"data.height\">\n    <div class=\"front\" *ngIf=\"frontVisible\">\n      <add-form [fields]='searchFields' [(newRecord)]='newRecord' [button]=\"'Get Attendance'\" (onAdd)=\"onSearch($event)\"></add-form>\n      <data-grid [(data)]=\"data\" [fields]='fields' [selectedApp]='dataService.selectedApp.name' (ondelete)=\"onDelete($event)\" *ngIf='callGrid'></data-grid>\n    </div>\n  </div>\n</div>"
-
-/***/ }),
-
-/***/ "./src/app/modules/admin/attandance/attandance.component.scss":
-/***/ (function(module, exports) {
-
-module.exports = ".mat-cell {\n  text-align: center; }\n"
-
-/***/ }),
-
-/***/ "./src/app/modules/admin/attandance/attandance.component.ts":
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return AttandanceComponent; });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__("./node_modules/@angular/core/esm5/core.js");
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__services_data_service__ = __webpack_require__("./src/app/services/data.service.ts");
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__angular_material__ = __webpack_require__("./node_modules/@angular/material/esm5/material.es5.js");
-var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
-    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
-    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
-    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
-    return c > 3 && r && Object.defineProperty(target, key, r), r;
-};
-var __metadata = (this && this.__metadata) || function (k, v) {
-    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
-};
-
-
-
-
-var AttandanceComponent = /** @class */ (function () {
-    function AttandanceComponent(dataService, dialog, snackBar) {
-        this.dataService = dataService;
-        this.dialog = dialog;
-        this.snackBar = snackBar;
-        this.frontVisible = true;
-        this.data = {};
-        this.fields = [];
-        this.searchFields = [];
-        this.newRecord = {};
-        this.years = [];
-    }
-    AttandanceComponent.prototype.ngOnInit = function () {
-        this.user = this.dataService.user;
-        var today = new Date();
-        for (var i = 1990; i <= today.getFullYear(); i++) {
-            this.years.push({ id: i });
-        }
-        ;
-        this.data.additionalProperties = { businessId: this.dataService.user.businessId };
-        this.fields = [];
-        this.newRecord = {};
-        this.data.objTemp = { "businessId": this.dataService.user.businessId };
-        this.searchFields = [
-            {
-                field: 'year',
-                label: 'Year',
-                element: 'dropdown',
-                hide: false,
-                editable: true,
-                values: [
-                    { id: "1" },
-                    { id: "2" },
-                    { id: "3" },
-                    { id: "4" },
-                ],
-                update: true
-            },
-            {
-                field: 'course',
-                label: 'Course',
-                element: 'dropdown',
-                hide: false,
-                editable: true,
-                values: this.dataService.courses,
-                update: true
-            },
-            {
-                field: 'department',
-                label: 'Department',
-                element: 'dropdown',
-                hide: false,
-                editable: true,
-                values: this.dataService.departments,
-                update: true
-            },
-            {
-                field: 'semester',
-                label: 'Semester',
-                element: 'dropdown',
-                hide: false,
-                editable: true,
-                values: [
-                    { name: '1', id: '1' },
-                    { name: '2', id: '2' }
-                ],
-                update: true
-            }
-        ];
-    };
-    AttandanceComponent.prototype.ngAfterContentChecked = function () {
-        this.getHeightWidth();
-    };
-    AttandanceComponent.prototype.getHeightWidth = function () {
-        var height = ($('.nav-list')[0].offsetTop - $('.students-view .card')[0].offsetTop), width = $('.sidenav-body')[0].offsetWidth;
-        this.data.width = width - 45;
-        this.data.height = height - 82;
-        this.data.showFilter = true;
-        this.data.showFooter = false;
-        this.data.updatable = true;
-        this.data.deletable = true;
-    };
-    AttandanceComponent.prototype.getData = function () {
-        var _this = this;
-        var url = 'attendance/getAttendance';
-        this.data.url = url;
-        this.dataService.getData(url, this.data.objTemp).subscribe(function (results) {
-            if (!results || results.code === -1) {
-                _this.data.data = [];
-            }
-            else {
-                var keys = Object.keys(results.data.absentCount), dataTemp = [];
-                for (var i = 0; i < keys.length; i++) {
-                    var obj = {};
-                    obj.studentId = keys[i];
-                    obj.absent = results.data.absentCount[keys[i]] + '';
-                    obj.present = results.data.presentCount[keys[i]] + '';
-                    dataTemp.push(obj);
-                }
-                _this.data.data = dataTemp;
-                _this.fields = [
-                    {
-                        field: 'studentId',
-                        label: 'Student Id',
-                        element: 'input',
-                        remove: true,
-                        hide: false,
-                        editable: false,
-                        update: true
-                    },
-                    {
-                        field: 'present',
-                        label: 'Days Present',
-                        element: 'input',
-                        hide: false,
-                        editable: true,
-                        update: true
-                    },
-                    {
-                        field: 'absent',
-                        label: 'Days Absent',
-                        element: 'input',
-                        hide: false,
-                        editable: true,
-                        update: true
-                    }
-                ];
-            }
-            _this.callGrid = true;
-        });
-    };
-    AttandanceComponent.prototype.onSearch = function (student) {
-        if (!student)
-            student = this.tempValue;
-        else
-            this.tempValue = student;
-        var temp = {
-            "year": student.year || '',
-            "semester": student.semester || '',
-            "course": student.course || '',
-            "department": student.department || '',
-            "businessId": this.dataService.user.businessId
-        };
-        this.data.objTemp = temp;
-        this.getData();
-    };
-    AttandanceComponent.prototype.addNewStudent = function (student) {
-        var _this = this;
-        var temp = {
-            "year": student.year || '',
-            "semester": student.semester || '',
-            "course": student.course || '',
-            "department": student.department || '',
-            "subjectName": student.subjectName || '',
-            "businessId": this.dataService.user.businessId
-        };
-        //"nextPaymentDate": this.dataService.convertDate(student.nextPaymentDate, true),
-        var url = "admin/addSubjects";
-        this.dataService.getData(url, temp).subscribe(function (results) {
-            if (!results || results.code === -1) {
-                _this.snackBar.open('Error Adding Subject', 'Ok', {
-                    duration: 5000,
-                });
-                return;
-            }
-            _this.onSearch(temp);
-            _this.dataService.getDetails();
-        });
-    };
-    AttandanceComponent.prototype.onDelete = function (flag) {
-        this.snackBar.open('Subject Record ' + flag + ' Succesfully', 'Ok', {
-            duration: 5000,
-        });
-        this.callGrid = false;
-        this.getData();
-    };
-    AttandanceComponent.prototype.flip = function () {
-        $('.card').toggleClass('flipped');
-        this.frontVisible = !this.frontVisible;
-    };
-    AttandanceComponent = __decorate([
-        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Component"])({
-            selector: 'attandance',
-            template: __webpack_require__("./src/app/modules/admin/attandance/attandance.component.html"),
-            styles: [__webpack_require__("./src/app/modules/admin/attandance/attandance.component.scss")]
-        }),
-        __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1__services_data_service__["a" /* DataService */], __WEBPACK_IMPORTED_MODULE_2__angular_material__["i" /* MatDialog */], __WEBPACK_IMPORTED_MODULE_2__angular_material__["D" /* MatSnackBar */]])
-    ], AttandanceComponent);
-    return AttandanceComponent;
 }());
 
 
@@ -2339,195 +2029,6 @@ var CattleManagementComponent = /** @class */ (function () {
 
 /***/ }),
 
-/***/ "./src/app/modules/admin/courses/courses.component.html":
-/***/ (function(module, exports) {
-
-module.exports = "<div class=\"container students-view\">\n  <span class=\"selected-app-name\">{{user.selectedApp.name}}</span> \n  <span class=\"row go-icon\" *ngIf=\"frontVisible\">\n    <span (click)=\"flip()\">\n      <button mat-button color=\"primary\"><mat-icon>add</mat-icon>Add Course</button>\n    </span>\n  </span> \n  <span class=\"row go-icon\" *ngIf=\"!frontVisible\">\n    <span (click)=\"flip()\">\n      <button mat-button color=\"primary\">View Courses</button>\n    </span>\n  </span> \n  <div class=\"card\" [style.width.px]=\"data.width\" [style.height.px]=\"data.height\">\n    <div class=\"front\" *ngIf=\"frontVisible\">\n      <data-grid [(data)]=\"data\" [fields]='fields' [selectedApp]='dataService.selectedApp.name' (ondelete)=\"onDelete($event)\" *ngIf='callGrid'></data-grid>\n    </div>\n    <div class=\"back\" *ngIf=\"!frontVisible\">\n      <add-form [fields]='fields' [(newRecord)]='newRecord' (onAdd)=\"addNewStudent($event)\"></add-form>\n    </div>\n  </div>\n</div>"
-
-/***/ }),
-
-/***/ "./src/app/modules/admin/courses/courses.component.scss":
-/***/ (function(module, exports) {
-
-module.exports = ""
-
-/***/ }),
-
-/***/ "./src/app/modules/admin/courses/courses.component.ts":
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return CoursesComponent; });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__("./node_modules/@angular/core/esm5/core.js");
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__services_data_service__ = __webpack_require__("./src/app/services/data.service.ts");
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__angular_material__ = __webpack_require__("./node_modules/@angular/material/esm5/material.es5.js");
-var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
-    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
-    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
-    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
-    return c > 3 && r && Object.defineProperty(target, key, r), r;
-};
-var __metadata = (this && this.__metadata) || function (k, v) {
-    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
-};
-
-
-
-var CoursesComponent = /** @class */ (function () {
-    function CoursesComponent(dataService, snackBar) {
-        this.dataService = dataService;
-        this.snackBar = snackBar;
-        this.frontVisible = true;
-        this.data = {};
-        this.fields = [];
-        this.newRecord = {};
-        this.years = [];
-    }
-    CoursesComponent.prototype.ngOnInit = function () {
-        this.user = this.dataService.user;
-        this.getData();
-        var today = new Date();
-        for (var i = 1990; i <= today.getFullYear(); i++) {
-            this.years.push({ value: i });
-        }
-        ;
-    };
-    CoursesComponent.prototype.ngAfterContentChecked = function () {
-        this.getHeightWidth();
-    };
-    CoursesComponent.prototype.getHeightWidth = function () {
-        var height = ($('.nav-list')[0].offsetTop - $('.students-view .card')[0].offsetTop), width = $('.sidenav-body')[0].offsetWidth;
-        this.data.width = width - 45;
-        this.data.height = height - 82;
-        this.data.showFilter = true;
-        this.data.showFooter = false;
-        this.data.updatable = true;
-        this.data.deletable = true;
-    };
-    CoursesComponent.prototype.getData = function () {
-        var _this = this;
-        var url = 'admin/getCoursesByBusinessId';
-        this.data.url = url;
-        this.data.deleteUrl = 'admin/deleteCourse/';
-        this.data.editUrl = 'admin/editCourse';
-        this.data.objTemp = { "businessId": this.dataService.user.businessId };
-        this.data.additionalProperties = { businessId: this.dataService.user.businessId };
-        this.data.deleteMethod = true;
-        this.data.columns = ['id', 'course', 'department'];
-        this.fields = [
-            {
-                field: 'id',
-                label: 'Course Id',
-                element: 'input',
-                remove: true,
-                hide: true,
-                editable: false,
-                update: true
-            },
-            {
-                field: 'course',
-                label: 'Course Name',
-                element: 'input',
-                hide: false,
-                editable: true,
-                update: true
-            },
-            {
-                field: 'department',
-                label: 'Department Name',
-                element: 'dropdown',
-                hide: true,
-                editable: true,
-                update: true,
-                values: this.dataService.departments
-            },
-            {
-                field: 'departmentId',
-                label: 'Department Name',
-                element: 'dropdown',
-                hide: false,
-                editable: true,
-                update: true,
-                values: this.dataService.departments
-            },
-            {
-                field: 'actions',
-                label: 'Actions',
-                element: '',
-                hide: false,
-                editable: true
-            }
-        ];
-        this.dataService.getData(url, this.data.objTemp).subscribe(function (results) {
-            _this.data.data = [];
-            if (!results || results.code === -1) {
-                _this.data.data = [];
-            }
-            else
-                _this.data.data = results.data;
-            _this.newRecord = {};
-            _this.callGrid = true;
-        });
-    };
-    CoursesComponent.prototype.addNewStudent = function (student) {
-        var _this = this;
-        var temp = {
-            "course": student.course,
-            "department": student.departmentId,
-            "businessId": this.dataService.user.businessId
-        };
-        //"nextPaymentDate": this.dataService.convertDate(student.nextPaymentDate, true),
-        var url = "admin/addCourse";
-        this.dataService.getData(url, temp).subscribe(function (results) {
-            if (!results || results.code === -1) {
-                _this.snackBar.open('Error Adding Course', 'Ok', {
-                    duration: 5000,
-                });
-                return;
-            }
-            var urlFull = 'admin/getCoursesByBusinessId';
-            _this.newRecord = {};
-            _this.dataService.getData(urlFull, { "businessId": _this.dataService.user.businessId }).subscribe(function (results) {
-                if (!results || results.code === -1) {
-                    _this.data.data = [];
-                    return;
-                }
-                _this.flip();
-                _this.data.data = results.data;
-                _this.snackBar.open('Course Added Succesfully', 'Ok', {
-                    duration: 5000,
-                });
-                _this.dataService.getDetails();
-            });
-        });
-        // this.data.data.push(this.newRecord);
-    };
-    CoursesComponent.prototype.onDelete = function (flag) {
-        this.snackBar.open('Course Record ' + flag + ' Succesfully', 'Ok', {
-            duration: 5000,
-        });
-        this.callGrid = false;
-        this.getData();
-    };
-    CoursesComponent.prototype.flip = function () {
-        $('.card').toggleClass('flipped');
-        this.frontVisible = !this.frontVisible;
-    };
-    CoursesComponent = __decorate([
-        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Component"])({
-            selector: 'courses',
-            template: __webpack_require__("./src/app/modules/admin/courses/courses.component.html"),
-            styles: [__webpack_require__("./src/app/modules/admin/courses/courses.component.scss")]
-        }),
-        __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1__services_data_service__["a" /* DataService */], __WEBPACK_IMPORTED_MODULE_2__angular_material__["D" /* MatSnackBar */]])
-    ], CoursesComponent);
-    return CoursesComponent;
-}());
-
-
-
-/***/ }),
-
 /***/ "./src/app/modules/admin/customers-management/customers-management.component.html":
 /***/ (function(module, exports) {
 
@@ -2606,6 +2107,14 @@ var CustomersManagementComponent = /** @class */ (function () {
                 update: true
             },
             {
+                field: 'filePath',
+                label: 'Documents',
+                element: 'fileUpload',
+                hide: false,
+                editable: true,
+                update: true
+            },
+            {
                 field: 'userName',
                 label: 'User Name',
                 element: 'input',
@@ -2663,14 +2172,6 @@ var CustomersManagementComponent = /** @class */ (function () {
             {
                 field: 'state',
                 label: 'State',
-                element: 'input',
-                hide: false,
-                editable: true,
-                update: true
-            },
-            {
-                field: 'filePath',
-                label: 'File Path',
                 element: 'input',
                 hide: false,
                 editable: true,
@@ -2828,22 +2329,6 @@ var DashboardComponent = /** @class */ (function () {
         this.feedbackData = [];
     }
     DashboardComponent.prototype.ngOnInit = function () {
-        var _this = this;
-        var feedbackUrl = 'student/viewDashboardFeedback', businessObj = { businessId: this.dataService.user.businessId };
-        this.dataService.getData(feedbackUrl, businessObj).subscribe(function (results) {
-            if (!results || results.code === -1) {
-                return;
-            }
-            if (results.data && results.data.length) {
-                for (var i = 0; i < results.data.length; i++) {
-                    var temp = {
-                        label: results.data[i].professorName,
-                        value: results.data[i].rating
-                    };
-                    _this.feedbackData.push(temp);
-                }
-            }
-        });
         this.tile.color = 'white';
         //this.tile.rowHeight = ($('.sidenav-body')[0].height() / 3 );
     };
@@ -2973,454 +2458,6 @@ var DashboardComponent = /** @class */ (function () {
 
 /***/ }),
 
-/***/ "./src/app/modules/admin/departments/departments.component.html":
-/***/ (function(module, exports) {
-
-module.exports = "<div class=\"container students-view\">\n    <span class=\"selected-app-name\">{{user.selectedApp.name}}</span> \n    <span class=\"row go-icon\" *ngIf=\"frontVisible\">\n      <span (click)=\"flip()\">\n        <button mat-button color=\"primary\"><mat-icon>add</mat-icon>Add Department</button>\n      </span>\n    </span> \n    <span class=\"row go-icon\" *ngIf=\"!frontVisible\">\n      <span (click)=\"flip()\">\n        <button mat-button color=\"primary\">View Departments</button>\n      </span>\n    </span> \n    <div class=\"card\" [style.width.px]=\"data.width\" [style.height.px]=\"data.height\">\n      <div class=\"front\" *ngIf=\"frontVisible\">\n        <data-grid [(data)]=\"data\" [fields]='fields' [selectedApp]='dataService.selectedApp.name' (ondelete)=\"onDelete($event)\" *ngIf='callGrid'></data-grid>\n      </div>\n      <div class=\"back\" *ngIf=\"!frontVisible\">\n        <add-form [fields]='fields' [(newRecord)]='newRecord' (onAdd)=\"addNewStudent($event)\"></add-form>\n      </div>\n    </div>\n  </div>"
-
-/***/ }),
-
-/***/ "./src/app/modules/admin/departments/departments.component.scss":
-/***/ (function(module, exports) {
-
-module.exports = ""
-
-/***/ }),
-
-/***/ "./src/app/modules/admin/departments/departments.component.ts":
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return DepartmentsComponent; });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__("./node_modules/@angular/core/esm5/core.js");
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__services_data_service__ = __webpack_require__("./src/app/services/data.service.ts");
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__angular_material__ = __webpack_require__("./node_modules/@angular/material/esm5/material.es5.js");
-var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
-    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
-    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
-    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
-    return c > 3 && r && Object.defineProperty(target, key, r), r;
-};
-var __metadata = (this && this.__metadata) || function (k, v) {
-    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
-};
-
-
-
-var DepartmentsComponent = /** @class */ (function () {
-    function DepartmentsComponent(dataService, snackBar) {
-        this.dataService = dataService;
-        this.snackBar = snackBar;
-        this.frontVisible = true;
-        this.data = {};
-        this.fields = [];
-        this.newRecord = {};
-        this.years = [];
-    }
-    DepartmentsComponent.prototype.ngOnInit = function () {
-        this.user = this.dataService.user;
-        this.getData();
-        var today = new Date();
-        for (var i = 1990; i <= today.getFullYear(); i++) {
-            this.years.push({ value: i });
-        }
-        ;
-    };
-    DepartmentsComponent.prototype.ngAfterContentChecked = function () {
-        this.getHeightWidth();
-    };
-    DepartmentsComponent.prototype.getHeightWidth = function () {
-        var height = ($('.nav-list')[0].offsetTop - $('.students-view .card')[0].offsetTop), width = $('.sidenav-body')[0].offsetWidth;
-        this.data.width = width - 45;
-        this.data.height = height - 82;
-        ;
-        this.data.showFilter = true;
-        this.data.showFooter = false;
-        this.data.updatable = true;
-        this.data.deletable = true;
-    };
-    DepartmentsComponent.prototype.getData = function () {
-        var _this = this;
-        var url = 'admin/getDepartmentsByBusinessId';
-        this.data.url = url;
-        this.data.deleteUrl = 'admin/department/';
-        this.data.editUrl = 'admin/editDepartment';
-        this.data.objTemp = { "businessId": this.dataService.user.businessId };
-        this.data.additionalProperties = { businessId: this.dataService.user.businessId };
-        this.data.deleteMethod = true;
-        this.data.columns = ['id', 'name'];
-        this.fields = [
-            {
-                field: 'id',
-                label: 'Department Id',
-                element: 'input',
-                remove: true,
-                hide: true,
-                editable: false,
-                update: true
-            },
-            {
-                field: 'name',
-                label: 'Department Name',
-                element: 'input',
-                hide: false,
-                editable: true,
-                update: true
-            },
-            {
-                field: 'actions',
-                label: 'Actions',
-                element: '',
-                hide: false,
-                editable: true
-            }
-        ];
-        this.dataService.getData(url, this.data.objTemp).subscribe(function (results) {
-            if (!results || results.code === -1) {
-                _this.data.data = [];
-            }
-            else
-                _this.data.data = results.data;
-            _this.newRecord = {};
-            _this.callGrid = true;
-        });
-    };
-    DepartmentsComponent.prototype.addNewStudent = function (student) {
-        var _this = this;
-        var temp = {
-            "name": student.name,
-            "businessId": this.dataService.user.businessId
-        };
-        var url = "admin/addDepartment";
-        this.dataService.getData(url, temp).subscribe(function (results) {
-            if (!results || results.code === -1) {
-                _this.snackBar.open('Error Adding Department', 'Ok', {
-                    duration: 5000,
-                });
-                return;
-            }
-            var urlFull = 'admin/getDepartmentsByBusinessId';
-            _this.newRecord = {};
-            _this.dataService.getData(urlFull, { "businessId": _this.dataService.user.businessId }).subscribe(function (results) {
-                if (!results || results.code === -1) {
-                    _this.data.data = [];
-                    return;
-                }
-                _this.flip();
-                _this.data.data = results.data;
-                _this.snackBar.open('Department Added Succesfully', 'Ok', {
-                    duration: 5000,
-                });
-                _this.dataService.getDetails();
-            });
-        });
-        // this.data.data.push(this.newRecord);
-    };
-    DepartmentsComponent.prototype.onDelete = function (flag) {
-        this.snackBar.open('Department Record ' + flag + ' Succesfully', 'Ok', {
-            duration: 5000,
-        });
-        this.callGrid = false;
-        this.getData();
-    };
-    DepartmentsComponent.prototype.flip = function () {
-        $('.card').toggleClass('flipped');
-        this.frontVisible = !this.frontVisible;
-    };
-    DepartmentsComponent = __decorate([
-        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Component"])({
-            selector: 'departments',
-            template: __webpack_require__("./src/app/modules/admin/departments/departments.component.html"),
-            styles: [__webpack_require__("./src/app/modules/admin/departments/departments.component.scss")]
-        }),
-        __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1__services_data_service__["a" /* DataService */], __WEBPACK_IMPORTED_MODULE_2__angular_material__["D" /* MatSnackBar */]])
-    ], DepartmentsComponent);
-    return DepartmentsComponent;
-}());
-
-
-
-/***/ }),
-
-/***/ "./src/app/modules/admin/employee/employee.component.html":
-/***/ (function(module, exports) {
-
-module.exports = "<div class=\"container students-view\">\n    <span class=\"selected-app-name\">{{user.selectedApp.name}}</span> \n    <span class=\"row go-icon\" *ngIf=\"frontVisible\">\n      <span (click)=\"flip()\">\n        <button mat-button color=\"primary\"><mat-icon>add</mat-icon>Add Employee</button>\n      </span>\n    </span> \n    <span class=\"row go-icon\" *ngIf=\"!frontVisible\">\n      <span (click)=\"flip()\">\n        <button mat-button color=\"primary\">View Employees</button>\n      </span>\n    </span> \n    <div class=\"card\" [style.width.px]=\"data.width\" [style.height.px]=\"data.height\">\n      <div class=\"front\" *ngIf=\"frontVisible\">\n        <data-grid [(data)]=\"data\" [fields]='fields' [selectedApp]='dataService.selectedApp.name' (ondelete)=\"onDelete($event)\" *ngIf='callGrid'></data-grid>\n      </div>\n      <div class=\"back\" *ngIf=\"!frontVisible\">\n        <add-form [fields]='fields' [(newRecord)]='newRecord' (onAdd)=\"addNewStudent($event)\"></add-form>\n      </div>\n    </div>\n  </div>"
-
-/***/ }),
-
-/***/ "./src/app/modules/admin/employee/employee.component.scss":
-/***/ (function(module, exports) {
-
-module.exports = ""
-
-/***/ }),
-
-/***/ "./src/app/modules/admin/employee/employee.component.ts":
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return EmployeeComponent; });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__("./node_modules/@angular/core/esm5/core.js");
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__services_data_service__ = __webpack_require__("./src/app/services/data.service.ts");
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__angular_material__ = __webpack_require__("./node_modules/@angular/material/esm5/material.es5.js");
-var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
-    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
-    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
-    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
-    return c > 3 && r && Object.defineProperty(target, key, r), r;
-};
-var __metadata = (this && this.__metadata) || function (k, v) {
-    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
-};
-
-
-
-var EmployeeComponent = /** @class */ (function () {
-    function EmployeeComponent(dataService, snackBar) {
-        this.dataService = dataService;
-        this.snackBar = snackBar;
-        this.frontVisible = true;
-        this.data = {};
-        this.fields = [];
-        this.newRecord = {};
-        this.years = [];
-    }
-    EmployeeComponent.prototype.ngOnInit = function () {
-        this.user = this.dataService.user;
-        this.getData();
-        var today = new Date();
-        for (var i = 1990; i <= today.getFullYear(); i++) {
-            this.years.push({ id: i });
-        }
-        ;
-    };
-    EmployeeComponent.prototype.ngAfterContentChecked = function () {
-        this.getHeightWidth();
-    };
-    EmployeeComponent.prototype.getHeightWidth = function () {
-        var height = ($('.nav-list')[0].offsetTop - $('.students-view .card')[0].offsetTop), width = $('.sidenav-body')[0].offsetWidth;
-        this.data.width = width - 45;
-        this.data.height = height - 82;
-        ;
-        this.data.showFilter = true;
-        this.data.showFooter = false;
-        this.data.updatable = true;
-        this.data.deletable = true;
-    };
-    EmployeeComponent.prototype.getData = function () {
-        var _this = this;
-        var url = 'admin/getOtherEmployeesByBusinessId';
-        this.data.url = url;
-        this.data.deleteUrl = 'admin/removeOtherEmployees';
-        this.data.editUrl = 'admin/editOtherEmployees';
-        this.data.objTemp = { "businessId": this.dataService.user.businessId };
-        this.data.additionalProperties = { businessId: this.dataService.user.businessId, "designation": "others" };
-        this.data.columns = ['profilePic', 'employeeId', 'firstName', 'lastName', 'gender', 'address', 'dob', 'contactNumber', 'email', 'yearJoined', 'totalSalary'];
-        this.fields = [
-            {
-                field: 'profilePic',
-                label: 'Profile Pic',
-                element: 'image',
-                hide: true,
-                editable: true
-            },
-            {
-                field: 'employeeId',
-                label: 'Employee Id',
-                element: 'input',
-                remove: true,
-                hide: false,
-                editable: false,
-                update: true
-            },
-            {
-                field: 'firstName',
-                label: 'First Name',
-                element: 'input',
-                hide: false,
-                editable: true,
-                update: true
-            },
-            {
-                field: 'lastName',
-                label: 'Last Name',
-                element: 'input',
-                hide: false,
-                editable: true,
-                update: true
-            },
-            {
-                field: 'gender',
-                label: 'Gender',
-                element: 'dropdown',
-                hide: false,
-                editable: true,
-                values: [{
-                        id: 'male'
-                    }, {
-                        id: 'female'
-                    }],
-                update: true
-            },
-            {
-                field: 'address',
-                label: 'Address',
-                element: 'input',
-                hide: false,
-                editable: true,
-                update: true
-            },
-            {
-                field: 'dob',
-                label: 'Date Of Birth',
-                element: 'date',
-                hide: false,
-                editable: true,
-                update: true
-            },
-            {
-                field: 'email',
-                label: 'Email',
-                element: 'input',
-                hide: false,
-                editable: true,
-                update: true
-            },
-            {
-                field: 'contactNumber',
-                label: 'Contact',
-                element: 'number',
-                hide: false,
-                editable: true,
-                update: true
-            },
-            {
-                field: 'totalSalary',
-                label: 'Salary',
-                element: 'input',
-                hide: false,
-                editable: true,
-                update: true
-            },
-            {
-                field: 'yearJoined',
-                label: 'Year Joined',
-                element: 'dropdown',
-                hide: false,
-                editable: true,
-                values: this.years,
-                date: true,
-                update: true
-            },
-            {
-                field: 'actions',
-                label: 'Actions',
-                element: '',
-                hide: false,
-                editable: true
-            }
-        ];
-        this.dataService.getData(url, this.data.objTemp).subscribe(function (results) {
-            if (!results || results.code === -1) {
-                _this.data.data = [];
-            }
-            else
-                _this.data.data = results.data;
-            // address:"hyderabad"
-            // amountPaid:0
-            // balance:0
-            // businessId:1
-            // confirmPassword:null
-            // contactNumber:9030152102
-            // designation:"TEACHER"
-            // dob:7102018
-            // email:"viliam@gmail.com"
-            // employeeId:"1"
-            // firstName:"sahitya"
-            // gender:"female"
-            // id:4
-            // isActive:1
-            // lastName:"charitha"
-            // password:null
-            // profilePic:null
-            // subjects:null
-            // totalSalary:3000
-            // userName:"kits"
-            // yearJoined:2015
-            // yearToTeach:null
-            _this.newRecord = {};
-            _this.callGrid = true;
-        });
-    };
-    EmployeeComponent.prototype.addNewStudent = function (student) {
-        var _this = this;
-        var temp = {
-            "userName": student.employeeId,
-            "firstName": student.firstName,
-            "lastName": student.lastName,
-            "contactNumber": Number(student.contactNumber),
-            "email": student.email,
-            "address": student.address,
-            "gender": student.gender,
-            "totalSalary": student.totalSalary,
-            "yearJoined": this.dataService.convertDate(student.yearJoined, true),
-            "employeeId": student.employeeId,
-            "designation": "others",
-            "businessId": this.dataService.user.businessId,
-            "dob": this.dataService.convertDate(student.dob, true)
-        };
-        //"nextPaymentDate": this.dataService.convertDate(student.nextPaymentDate, true),
-        var url = "admin/addOtherEmployees";
-        this.dataService.getData(url, temp).subscribe(function (results) {
-            if (!results || results.code === -1) {
-                _this.snackBar.open('Error Adding Employee', 'Ok', {
-                    duration: 5000,
-                });
-                return;
-            }
-            var urlFull = 'admin/getOtherEmployeesByBusinessId';
-            _this.dataService.getData(urlFull, { "businessId": _this.dataService.user.businessId }).subscribe(function (results) {
-                if (!results || results.code === -1) {
-                    _this.data.data = [];
-                    return;
-                }
-                _this.flip();
-                _this.data.data = results.data;
-                _this.snackBar.open('Employee Added Succesfully', 'Ok', {
-                    duration: 5000,
-                });
-                _this.dataService.getDetails();
-            });
-        });
-        // this.data.data.push(this.newRecord);
-    };
-    EmployeeComponent.prototype.onDelete = function (flag) {
-        this.snackBar.open('Employee Record ' + flag + ' Succesfully', 'Ok', {
-            duration: 5000,
-        });
-        this.callGrid = false;
-        this.getData();
-    };
-    EmployeeComponent.prototype.flip = function () {
-        $('.card').toggleClass('flipped');
-        this.frontVisible = !this.frontVisible;
-    };
-    EmployeeComponent = __decorate([
-        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Component"])({
-            selector: 'employee',
-            template: __webpack_require__("./src/app/modules/admin/employee/employee.component.html"),
-            styles: [__webpack_require__("./src/app/modules/admin/employee/employee.component.scss")]
-        }),
-        __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1__services_data_service__["a" /* DataService */], __WEBPACK_IMPORTED_MODULE_2__angular_material__["D" /* MatSnackBar */]])
-    ], EmployeeComponent);
-    return EmployeeComponent;
-}());
-
-
-
-/***/ }),
-
 /***/ "./src/app/modules/admin/expenses-management/expenses-management.component.html":
 /***/ (function(module, exports) {
 
@@ -3478,7 +2515,7 @@ var ExpensesManagementComponent = /** @class */ (function () {
         // this.data.dynamicColumns = true;
         this.addDetail = false;
         if (department === 1) {
-            urlTemp = 'stockExpences';
+            urlTemp = 'stockExpenses';
             this.fields = [];
             this.fields = [
                 {
@@ -3557,7 +2594,7 @@ var ExpensesManagementComponent = /** @class */ (function () {
             ];
         }
         else if (department === 2) {
-            urlTemp = 'unitExpences';
+            urlTemp = 'unitExpenses';
             this.fields = [];
             this.fields = [
                 {
@@ -3719,7 +2756,7 @@ var ExpensesManagementComponent = /** @class */ (function () {
                 var height = ($('.nav-list')[0].offsetTop - $('.sidenav-body')[0].offsetTop) / 2;
                 _this.rowHeight = height + 'px';
                 _this.feedbackConfig = {
-                    type: 'bar2d',
+                    type: 'column2d',
                     height: height,
                     width: 700,
                     data: {
@@ -3764,7 +2801,7 @@ var ExpensesManagementComponent = /** @class */ (function () {
         var url = this.url;
         this.callGrid = false;
         var temp = {}, urlTemp = '';
-        if (url === 'stockExpences') {
+        if (url === 'stockExpenses') {
             temp = {
                 "invoiceDate": this.dataService.convertDate(details.invoiceDate, true),
                 "invoiceNumber": details.invoiceNumber,
@@ -3774,9 +2811,9 @@ var ExpensesManagementComponent = /** @class */ (function () {
                 "typeOfStock": details.typeOfStock,
                 "uploadFile": details.uploadFile,
             };
-            urlTemp = 'stockExpences';
+            urlTemp = 'stockExpenses';
         }
-        else if (url === 'unitExpences') {
+        else if (url === 'unitExpenses') {
             temp = {
                 "invoiceDate": this.dataService.convertDate(details.invoiceDate, true),
                 "invoiceNumber": details.invoiceNumber,
@@ -3786,7 +2823,7 @@ var ExpensesManagementComponent = /** @class */ (function () {
                 "typeOfAssets": details.typeOfAssets,
                 "uploadFile": details.uploadFile,
             };
-            urlTemp = 'unitExpences';
+            urlTemp = 'unitExpenses';
         }
         else if (url === 'wages') {
             temp = {
@@ -3898,643 +2935,6 @@ var ExpensesManagementComponent = /** @class */ (function () {
         __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1__services_data_service__["a" /* DataService */], __WEBPACK_IMPORTED_MODULE_2__angular_material__["i" /* MatDialog */], __WEBPACK_IMPORTED_MODULE_2__angular_material__["D" /* MatSnackBar */]])
     ], ExpensesManagementComponent);
     return ExpensesManagementComponent;
-}());
-
-
-
-/***/ }),
-
-/***/ "./src/app/modules/admin/feedback/feedback.component.html":
-/***/ (function(module, exports) {
-
-module.exports = "<div class=\"container students-view\">\n  <span class=\"selected-app-name\">{{user.selectedApp.name}}</span>\n  <span class=\"row go-icon\" *ngIf=\"!frontVisible\">\n    <span (click)=\"flip()\">\n      <button mat-button color=\"primary\">View departments</button>\n    </span>\n  </span>\n  <div class=\"card\" [style.width.px]=\"data.width\" [style.height.px]=\"data.height\">\n    <div class=\"front\" *ngIf=\"frontVisible\">\n      <div class=\"dashboard-wrapper\" style=\"width: 500px;padding-left:100px;padding-top:10px\">\n        <div *ngIf ='callGraph'>\n          <app-chart [(config)]='feedbackConfig'></app-chart>\n        </div>\n        <div>\n          <b>Select Department :</b>\n          <mat-form-field>\n            <mat-select placeholder=\"--Select--\" (change)=\"dataChanged($event)\">\n              <mat-option *ngFor=\"let value of department\" [value]=\"value.value\">\n                {{ value.name || value.value}}\n              </mat-option>\n            </mat-select>\n          </mat-form-field>\n          <button mat-raised-button color=\"primary\" (click)=\"flip()\">View</button>\n        </div>\n      </div>\n    </div>\n    <div class=\"back\" *ngIf=\"!frontVisible\">\n      <data-grid [(data)]=\"data\" [fields]='fields' [selectedApp]='dataService.selectedApp.name' (ondelete)=\"onDelete($event)\" *ngIf='callGrid'></data-grid>\n    </div>\n  </div>\n</div>"
-
-/***/ }),
-
-/***/ "./src/app/modules/admin/feedback/feedback.component.scss":
-/***/ (function(module, exports) {
-
-module.exports = ""
-
-/***/ }),
-
-/***/ "./src/app/modules/admin/feedback/feedback.component.ts":
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return FeedbackComponent; });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__("./node_modules/@angular/core/esm5/core.js");
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__services_data_service__ = __webpack_require__("./src/app/services/data.service.ts");
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__angular_material__ = __webpack_require__("./node_modules/@angular/material/esm5/material.es5.js");
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__components_popup_popup_component__ = __webpack_require__("./src/app/components/popup/popup.component.ts");
-var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
-    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
-    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
-    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
-    return c > 3 && r && Object.defineProperty(target, key, r), r;
-};
-var __metadata = (this && this.__metadata) || function (k, v) {
-    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
-};
-
-
-
-
-var FeedbackComponent = /** @class */ (function () {
-    function FeedbackComponent(dataService, dialog) {
-        this.dataService = dataService;
-        this.dialog = dialog;
-        this.frontVisible = true;
-        this.data = {};
-        this.fields = [];
-        this.searchFields = [];
-        this.newRecord = {};
-        this.years = [];
-        this.callGraph = false;
-    }
-    FeedbackComponent.prototype.dataChanged = function (event) {
-        var department = event.value;
-        var urlTemp = '';
-        this.data.dynamicColumns = true;
-        if (department === 1) {
-            urlTemp = 'student/viewFeedbackByBusinessId';
-        }
-        else if (department === 2) {
-            this.fields = [
-                {
-                    field: 'B.No',
-                    label: 'Bus Number',
-                    element: 'input',
-                    hide: false,
-                    editable: false
-                },
-                {
-                    field: 'D.Name',
-                    label: 'Driver Name',
-                    element: 'input',
-                    hide: false,
-                    editable: false
-                },
-                {
-                    field: 'Driving',
-                    label: 'Driving',
-                    element: 'input',
-                    hide: false,
-                    editable: false
-                },
-                {
-                    field: 'Timing',
-                    label: 'Timing',
-                    element: 'input',
-                    hide: false,
-                    editable: false
-                },
-                {
-                    field: 'Behaviour',
-                    label: 'Behaviour',
-                    element: 'input',
-                    hide: false,
-                    editable: false
-                },
-                {
-                    field: 'Condition',
-                    label: 'Condition',
-                    element: 'input',
-                    hide: false,
-                    editable: false
-                },
-                {
-                    field: 'Feedback',
-                    label: 'Feedback',
-                    element: 'input',
-                    hide: false,
-                    editable: false
-                }
-            ];
-            urlTemp = 'bus/getTransportFeedbackByBusinessId';
-        }
-        else if (department === 3) {
-            this.fields = [
-                {
-                    field: 'Food',
-                    label: 'Food',
-                    element: 'input',
-                    hide: false,
-                    editable: false
-                },
-                {
-                    field: 'Rooms',
-                    label: 'Rooms',
-                    element: 'input',
-                    hide: false,
-                    editable: false
-                },
-                {
-                    field: 'Facilities',
-                    label: 'Facilities',
-                    element: 'input',
-                    hide: false,
-                    editable: false
-                },
-                {
-                    field: 'Washrooms',
-                    label: 'Washrooms',
-                    element: 'input',
-                    hide: false,
-                    editable: false
-                },
-                {
-                    field: 'Overall',
-                    label: 'Overall Feedback',
-                    element: 'input',
-                    hide: false,
-                    editable: false
-                }
-            ];
-            urlTemp = 'hostel/viewHostelFeedbackByBusinessId';
-        }
-        this.getData(urlTemp);
-    };
-    FeedbackComponent.prototype.ngOnInit = function () {
-        var _this = this;
-        this.user = this.dataService.user;
-        this.department = [
-            { name: 'Stock', value: 1 },
-            { name: 'Unit', value: 2 },
-            { name: 'Wages', value: 3 }
-        ];
-        this.dataService.getRequest('totalExpenses').subscribe(function (results) {
-            if (results) {
-                results = results;
-                _this.feedbackConfig = {};
-                var height = ($('.nav-list')[0].offsetTop - $('.sidenav-body')[0].offsetTop) / 2;
-                debugger;
-                _this.rowHeight = height + 'px';
-                _this.feedbackConfig = {
-                    type: 'bar2d',
-                    height: height,
-                    width: 700,
-                    data: {
-                        chart: {
-                            caption: 'Expenses',
-                            //subCaption: 'Class Wise Results',
-                            //numberPrefix: '%',
-                            //numberSuffix: '%',
-                            //'theme': 'ocean'
-                            "theme": "fint",
-                            usePlotGradientColor: 0
-                        },
-                        data: _this.processChartData([
-                            {
-                                label: 'Stock',
-                                value: results.professorFeedbackTotal !== null ? results.professorFeedbackTotal : 0
-                            },
-                            {
-                                label: 'Unit',
-                                value: results.transportFeedbackTotal !== null ? results.transportFeedbackTotal : 0
-                            },
-                            {
-                                label: 'Wages',
-                                value: results.hostelFeedbackTotal !== null ? results.hostelFeedbackTotal : 0
-                            }
-                        ])
-                    }
-                };
-            }
-            _this.callGraph = true;
-        });
-    };
-    FeedbackComponent.prototype.processChartData = function (data) {
-        for (var i = 0; i < data.length; i++) {
-            var record = data[i];
-            if (record.value < 3) {
-                record.color = '#ff0000';
-                record.isSliced = "1";
-            }
-            else if (record.value >= 3 && record.value < 4)
-                record.color = '#0000FF';
-            else if (record.value >= 4 && record.value < 5)
-                record.color = '#FFA500';
-            else
-                record.color = '#008000';
-        }
-        return data;
-    };
-    FeedbackComponent.prototype.ngAfterContentChecked = function () {
-        this.getHeightWidth();
-    };
-    FeedbackComponent.prototype.getHeightWidth = function () {
-        var height = ($('.nav-list')[0].offsetTop - $('.students-view .card')[0].offsetTop), width = $('.sidenav-body')[0].offsetWidth;
-        this.data.width = width - 45;
-        this.data.height = height - 82;
-        this.data.showFilter = true;
-        this.data.showFooter = false;
-        this.data.updatable = false;
-        this.data.deletable = false;
-        this.data.details = false;
-    };
-    FeedbackComponent.prototype.getData = function (urlTemp) {
-        var _this = this;
-        var url = urlTemp;
-        this.data.objTemp = { "businessId": this.dataService.user.businessId };
-        this.dataService.getData(url, this.data.objTemp).subscribe(function (results) {
-            if (!results || results.code === -1) {
-                _this.data.data = [];
-            }
-            else if (results.data)
-                _this.data.data = results.data;
-            else
-                _this.data.data = [];
-            _this.fields = [];
-            _this.data.dynamicColumns = true;
-            _this.newRecord = {};
-            _this.callGrid = true;
-        });
-    };
-    FeedbackComponent.prototype.addNewStudent = function (student) {
-        this.data.data.push(this.newRecord);
-        this.flip();
-        this.dataService.getDetails();
-    };
-    FeedbackComponent.prototype.flip = function () {
-        $('.card').toggleClass('flipped');
-        this.frontVisible = !this.frontVisible;
-    };
-    FeedbackComponent.prototype.refreshGrid = function () {
-        this.callGrid = true;
-    };
-    FeedbackComponent.prototype.openSearch = function () {
-        var _this = this;
-        var dialogRef = this.dialog.open(__WEBPACK_IMPORTED_MODULE_3__components_popup_popup_component__["a" /* PopupComponent */], {
-            data: {
-                fields: this.searchFields,
-                data: {},
-                gridData: this.data,
-                button: 'View',
-                url: 'https://api.myjson.com/bins/rgabi',
-                name: 'Search'
-            }
-        });
-        dialogRef.afterClosed().subscribe(function (result) {
-            console.log(result);
-            _this.callGrid = false;
-            //this.data = result.gridData;
-            setTimeout(_this.refreshGrid, 1000);
-        });
-    };
-    FeedbackComponent = __decorate([
-        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Component"])({
-            selector: 'feedback',
-            template: __webpack_require__("./src/app/modules/admin/feedback/feedback.component.html"),
-            styles: [__webpack_require__("./src/app/modules/admin/feedback/feedback.component.scss")]
-        }),
-        __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1__services_data_service__["a" /* DataService */], __WEBPACK_IMPORTED_MODULE_2__angular_material__["i" /* MatDialog */]])
-    ], FeedbackComponent);
-    return FeedbackComponent;
-}());
-
-
-
-/***/ }),
-
-/***/ "./src/app/modules/admin/hostel/hostel.component.html":
-/***/ (function(module, exports) {
-
-module.exports = "<p>\n  hostel works!\n</p>\n"
-
-/***/ }),
-
-/***/ "./src/app/modules/admin/hostel/hostel.component.scss":
-/***/ (function(module, exports) {
-
-module.exports = ""
-
-/***/ }),
-
-/***/ "./src/app/modules/admin/hostel/hostel.component.ts":
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return HostelComponent; });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__("./node_modules/@angular/core/esm5/core.js");
-var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
-    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
-    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
-    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
-    return c > 3 && r && Object.defineProperty(target, key, r), r;
-};
-var __metadata = (this && this.__metadata) || function (k, v) {
-    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
-};
-
-var HostelComponent = /** @class */ (function () {
-    function HostelComponent() {
-    }
-    HostelComponent.prototype.ngOnInit = function () {
-    };
-    HostelComponent = __decorate([
-        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Component"])({
-            selector: 'app-hostel',
-            template: __webpack_require__("./src/app/modules/admin/hostel/hostel.component.html"),
-            styles: [__webpack_require__("./src/app/modules/admin/hostel/hostel.component.scss")]
-        }),
-        __metadata("design:paramtypes", [])
-    ], HostelComponent);
-    return HostelComponent;
-}());
-
-
-
-/***/ }),
-
-/***/ "./src/app/modules/admin/librarian/librarian.component.html":
-/***/ (function(module, exports) {
-
-module.exports = "<div class=\"container students-view\">\n    <span class=\"selected-app-name\">{{user.selectedApp.name}}</span> \n    <span class=\"row go-icon\" *ngIf=\"frontVisible\">\n      <span (click)=\"flip()\">\n        <button mat-button color=\"primary\"><mat-icon>add</mat-icon>Add Librarian</button>\n      </span>\n    </span> \n    <span class=\"row go-icon\" *ngIf=\"!frontVisible\">\n      <span (click)=\"flip()\">\n        <button mat-button color=\"primary\">View Librarians</button>\n      </span>\n    </span> \n    <div class=\"card\" [style.width.px]=\"data.width\" [style.height.px]=\"data.height\">\n      <div class=\"front\" *ngIf=\"frontVisible\">\n        <data-grid [(data)]=\"data\" [fields]='fields' (ondelete)=\"onDelete($event)\" [selectedApp]='dataService.selectedApp.name' *ngIf='callGrid'></data-grid>\n      </div>\n      <div class=\"back\" *ngIf=\"!frontVisible\">\n        <add-form [fields]='fields' [(newRecord)]='newRecord' (onAdd)=\"addNewStudent($event)\"></add-form>\n      </div>\n    </div>\n  </div>"
-
-/***/ }),
-
-/***/ "./src/app/modules/admin/librarian/librarian.component.scss":
-/***/ (function(module, exports) {
-
-module.exports = ""
-
-/***/ }),
-
-/***/ "./src/app/modules/admin/librarian/librarian.component.ts":
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return LibrarianComponent; });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__("./node_modules/@angular/core/esm5/core.js");
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__services_data_service__ = __webpack_require__("./src/app/services/data.service.ts");
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__angular_material__ = __webpack_require__("./node_modules/@angular/material/esm5/material.es5.js");
-var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
-    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
-    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
-    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
-    return c > 3 && r && Object.defineProperty(target, key, r), r;
-};
-var __metadata = (this && this.__metadata) || function (k, v) {
-    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
-};
-
-
-
-var LibrarianComponent = /** @class */ (function () {
-    function LibrarianComponent(dataService, snackBar) {
-        this.dataService = dataService;
-        this.snackBar = snackBar;
-        this.frontVisible = true;
-        this.data = {};
-        this.fields = [];
-        this.newRecord = {};
-        this.years = [];
-    }
-    LibrarianComponent.prototype.ngOnInit = function () {
-        this.user = this.dataService.user;
-        this.getData();
-        var today = new Date();
-        for (var i = 1990; i <= today.getFullYear(); i++) {
-            this.years.push({ id: i });
-        }
-        ;
-    };
-    LibrarianComponent.prototype.ngAfterContentChecked = function () {
-        this.getHeightWidth();
-    };
-    LibrarianComponent.prototype.getHeightWidth = function () {
-        var height = ($('.nav-list')[0].offsetTop - $('.students-view .card')[0].offsetTop), width = $('.sidenav-body')[0].offsetWidth;
-        this.data.width = width - 45;
-        this.data.height = height - 82;
-        ;
-        this.data.showFilter = true;
-        this.data.showFooter = false;
-        this.data.updatable = true;
-        this.data.deletable = true;
-    };
-    LibrarianComponent.prototype.getData = function () {
-        var _this = this;
-        // let url = 'https://api.myjson.com/bins/128rnq';
-        var url = 'admin/getLibrariansByBusinessId';
-        this.data.url = url;
-        this.data.deleteUrl = 'admin/removeLibrarians';
-        this.data.editUrl = 'admin/editLibrarians';
-        this.data.objTemp = { "businessId": this.dataService.user.businessId };
-        this.data.additionalProperties = { businessId: this.dataService.user.businessId, "designation": "librarian" };
-        this.data.columns = ['profilePic', 'employeeId', 'firstName', 'lastName', 'gender', 'address', 'dob', 'contactNumber', 'email', 'yearJoined', 'totalSalary'];
-        this.fields = [
-            {
-                field: 'profilePic',
-                label: 'Profile Pic',
-                element: 'image',
-                hide: true,
-                editable: true
-            },
-            {
-                field: 'rifdTag',
-                label: 'RfId Tag',
-                element: 'input',
-                hide: true,
-                editable: true
-            },
-            {
-                field: 'id',
-                label: 'Id',
-                element: 'input',
-                hide: true,
-                editable: true
-            },
-            {
-                field: 'employeeId',
-                label: 'Employee Id',
-                element: 'input',
-                hide: false,
-                editable: false,
-                remove: true,
-                update: true
-            },
-            {
-                field: 'firstName',
-                label: 'First Name',
-                element: 'input',
-                hide: false,
-                editable: true,
-                update: true
-            },
-            {
-                field: 'lastName',
-                label: 'Last Name',
-                element: 'input',
-                hide: false,
-                editable: true,
-                update: true
-            },
-            {
-                field: 'gender',
-                label: 'Gender',
-                element: 'dropdown',
-                hide: false,
-                editable: true,
-                values: [{
-                        id: 'male'
-                    }, {
-                        id: 'female'
-                    }],
-                update: true
-            },
-            {
-                field: 'address',
-                label: 'Address',
-                element: 'input',
-                hide: false,
-                editable: true,
-                update: true
-            },
-            {
-                field: 'dob',
-                label: 'Date Of Birth',
-                element: 'date',
-                hide: false,
-                editable: true,
-                update: true
-            },
-            {
-                field: 'email',
-                label: 'Email',
-                element: 'input',
-                hide: false,
-                editable: true,
-                update: true
-            },
-            {
-                field: 'contactNumber',
-                label: 'Contact',
-                element: 'number',
-                hide: false,
-                editable: true,
-                update: true
-            },
-            {
-                field: 'totalSalary',
-                label: 'Salary',
-                element: 'input',
-                hide: false,
-                editable: true,
-                update: true
-            },
-            {
-                field: 'yearJoined',
-                label: 'Year Joined',
-                element: 'dropdown',
-                hide: false,
-                editable: true,
-                date: true,
-                values: this.years,
-                update: true
-            },
-            {
-                field: 'actions',
-                label: 'Actions',
-                element: '',
-                hide: false,
-                editable: true
-            }
-        ];
-        this.dataService.getData(url, this.data.objTemp).subscribe(function (results) {
-            if (!results || results.code === -1) {
-                _this.data.data = [];
-            }
-            else
-                _this.data.data = results.data;
-            // address:"hyderabad"
-            // amountPaid:0
-            // balance:0
-            // businessId:1
-            // confirmPassword:null
-            // contactNumber:9030152102
-            // designation:"TEACHER"
-            // dob:7102018
-            // email:"viliam@gmail.com"
-            // employeeId:"1"
-            // firstName:"sahitya"
-            // gender:"female"
-            // id:4
-            // isActive:1
-            // lastName:"charitha"
-            // password:null
-            // profilePic:null
-            // subjects:null
-            // totalSalary:3000
-            // userName:"kits"
-            // yearJoined:2015
-            // yearToTeach:null
-            _this.newRecord = {};
-            _this.callGrid = true;
-        });
-    };
-    LibrarianComponent.prototype.addNewStudent = function (student) {
-        var _this = this;
-        var temp = {
-            "userName": student.employeeId,
-            "firstName": student.firstName,
-            "lastName": student.lastName,
-            "contactNumber": Number(student.contactNumber),
-            "email": student.email,
-            "address": student.address,
-            "gender": student.gender,
-            "totalSalary": student.totalSalary,
-            "yearJoined": this.dataService.convertDate(student.yearJoined, true),
-            "employeeId": student.employeeId,
-            "designation": "librarian",
-            "businessId": this.dataService.user.businessId,
-            "dob": this.dataService.convertDate(student.dob, true)
-        };
-        //"nextPaymentDate": this.dataService.convertDate(student.nextPaymentDate, true),
-        var url = "admin/addLibrarians";
-        this.dataService.getData(url, temp).subscribe(function (results) {
-            if (!results || results.code === -1) {
-                _this.snackBar.open('Error Adding Professor', 'Ok', {
-                    duration: 5000,
-                });
-                return;
-            }
-            var urlFull = 'admin/getLibrariansByBusinessId';
-            _this.dataService.getData(urlFull, { "businessId": _this.dataService.user.businessId }).subscribe(function (results) {
-                if (!results || results.code === -1) {
-                    _this.data.data = [];
-                    return;
-                }
-                _this.flip();
-                _this.data.data = results.data;
-                _this.snackBar.open('Librarian Added Succesfully', 'Ok', {
-                    duration: 5000,
-                });
-                _this.dataService.getDetails();
-            });
-        });
-        // this.data.data.push(this.newRecord);
-    };
-    LibrarianComponent.prototype.onDelete = function (flag) {
-        this.snackBar.open('Librarian Record ' + flag + ' Succesfully', 'Ok', {
-            duration: 5000,
-        });
-        this.callGrid = false;
-        this.getData();
-    };
-    LibrarianComponent.prototype.flip = function () {
-        $('.card').toggleClass('flipped');
-        this.frontVisible = !this.frontVisible;
-    };
-    LibrarianComponent = __decorate([
-        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Component"])({
-            selector: 'librarian',
-            template: __webpack_require__("./src/app/modules/admin/librarian/librarian.component.html"),
-            styles: [__webpack_require__("./src/app/modules/admin/librarian/librarian.component.scss")]
-        }),
-        __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1__services_data_service__["a" /* DataService */], __WEBPACK_IMPORTED_MODULE_2__angular_material__["D" /* MatSnackBar */]])
-    ], LibrarianComponent);
-    return LibrarianComponent;
 }());
 
 
@@ -4713,533 +3113,6 @@ var PhaseManagementComponent = /** @class */ (function () {
 
 /***/ }),
 
-/***/ "./src/app/modules/admin/professors/professors.component.html":
-/***/ (function(module, exports) {
-
-module.exports = "<div class=\"container students-view\">\n    <span class=\"selected-app-name\">{{user.selectedApp.name}}</span> \n    <span class=\"row go-icon\" *ngIf=\"frontVisible\">\n      <span (click)=\"flip()\">\n        <button mat-button color=\"primary\"><mat-icon>add</mat-icon>Add Professor</button>\n      </span>\n    </span> \n    <span class=\"row go-icon\" *ngIf=\"!frontVisible\">\n      <span (click)=\"flip()\">\n        <button mat-button color=\"primary\">View Professors</button>\n      </span>\n    </span> \n    <div class=\"card\" [style.width.px]=\"data.width\" [style.height.px]=\"data.height\">\n      <div class=\"front\" *ngIf=\"frontVisible\">\n        <data-grid [(data)]=\"data\" [fields]='fields' (ondelete)=\"onDelete($event)\" [selectedApp]='dataService.selectedApp.name' *ngIf='callGrid'></data-grid>\n      </div>\n      <div class=\"back\" *ngIf=\"!frontVisible\">\n        <add-form [fields]='fields' [(newRecord)]='newRecord' (onAdd)=\"addNewStudent($event)\"></add-form>\n      </div>\n    </div>\n  </div>"
-
-/***/ }),
-
-/***/ "./src/app/modules/admin/professors/professors.component.scss":
-/***/ (function(module, exports) {
-
-module.exports = ""
-
-/***/ }),
-
-/***/ "./src/app/modules/admin/professors/professors.component.ts":
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return ProfessorsComponent; });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__("./node_modules/@angular/core/esm5/core.js");
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__services_data_service__ = __webpack_require__("./src/app/services/data.service.ts");
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__angular_material__ = __webpack_require__("./node_modules/@angular/material/esm5/material.es5.js");
-var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
-    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
-    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
-    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
-    return c > 3 && r && Object.defineProperty(target, key, r), r;
-};
-var __metadata = (this && this.__metadata) || function (k, v) {
-    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
-};
-
-
-
-var ProfessorsComponent = /** @class */ (function () {
-    function ProfessorsComponent(dataService, snackBar) {
-        this.dataService = dataService;
-        this.snackBar = snackBar;
-        this.frontVisible = true;
-        this.data = {};
-        this.fields = [];
-        this.newRecord = {};
-        this.years = [];
-    }
-    ProfessorsComponent.prototype.ngOnInit = function () {
-        this.dataService.getDetails();
-        this.user = this.dataService.user;
-        this.getData();
-        var today = new Date();
-        for (var i = 1990; i <= today.getFullYear(); i++) {
-            this.years.push({ id: i });
-        }
-        ;
-    };
-    ProfessorsComponent.prototype.ngAfterContentChecked = function () {
-        this.getHeightWidth();
-    };
-    ProfessorsComponent.prototype.getHeightWidth = function () {
-        var height = ($('.nav-list')[0].offsetTop - $('.students-view .card')[0].offsetTop), width = $('.sidenav-body')[0].offsetWidth;
-        this.data.width = width - 45;
-        this.data.height = height - 82;
-        this.data.showFilter = true;
-        this.data.showFooter = false;
-        this.data.updatable = true;
-        this.data.deletable = true;
-    };
-    ProfessorsComponent.prototype.getData = function () {
-        var _this = this;
-        // let url = 'https://api.myjson.com/bins/128rnq';
-        var url = 'admin/getProfessorsByBusinessId';
-        this.data.url = url;
-        this.data.deleteUrl = 'admin/removeProfessor';
-        this.data.editUrl = 'admin/editProfessor';
-        this.data.objTemp = { "businessId": this.dataService.user.businessId };
-        this.data.additionalProperties = { businessId: this.dataService.user.businessId, "designation": "teacher" };
-        this.data.columns = ['profilePic', 'employeeId', 'firstName', 'lastName', 'gender', 'address', 'dob', 'contactNumber', 'email', 'yearJoined', 'yearToTeach', 'totalSalary', 'subjects'];
-        this.fields = [
-            {
-                field: 'profilePic',
-                label: 'Profile Pic',
-                element: 'image',
-                hide: true,
-                editable: true
-            },
-            {
-                field: 'employeeId',
-                label: 'Employee Id',
-                element: 'input',
-                remove: true,
-                hide: false,
-                editable: false,
-                update: true
-            },
-            {
-                field: 'firstName',
-                label: 'First Name',
-                element: 'input',
-                hide: false,
-                editable: true,
-                update: true
-            },
-            {
-                field: 'lastName',
-                label: 'Last Name',
-                element: 'input',
-                hide: false,
-                editable: true,
-                update: true
-            },
-            {
-                field: 'gender',
-                label: 'Gender',
-                element: 'dropdown',
-                hide: false,
-                editable: true,
-                values: [{
-                        id: 'male'
-                    }, {
-                        id: 'female'
-                    }],
-                update: true
-            },
-            {
-                field: 'address',
-                label: 'Address',
-                element: 'input',
-                hide: false,
-                editable: true,
-                update: true
-            },
-            {
-                field: 'dob',
-                label: 'Date Of Birth',
-                element: 'date',
-                hide: false,
-                editable: true,
-                update: true
-            },
-            {
-                field: 'email',
-                label: 'Email',
-                element: 'input',
-                hide: false,
-                editable: true,
-                update: true
-            },
-            {
-                field: 'contactNumber',
-                label: 'Contact',
-                element: 'number',
-                hide: false,
-                editable: true,
-                update: true
-            },
-            {
-                field: 'totalSalary',
-                label: 'Salary',
-                element: 'input',
-                hide: false,
-                editable: true,
-                update: true
-            },
-            {
-                field: 'yearJoined',
-                label: 'Year Joined',
-                element: 'dropdown',
-                hide: false,
-                editable: true,
-                values: this.years,
-                date: true,
-                update: true
-            },
-            {
-                field: 'yearToTeach',
-                label: 'Year To Teach',
-                element: 'dropdown',
-                hide: false,
-                date: true,
-                editable: true,
-                multiple: true,
-                update: true,
-                values: [
-                    { id: "1" },
-                    { id: "2" },
-                    { id: "3" },
-                    { id: "4" },
-                ],
-            },
-            {
-                field: 'subjects',
-                label: 'Subjects',
-                element: 'dropdown',
-                hide: false,
-                editable: true,
-                update: true,
-                values: this.dataService.subjects
-            },
-            {
-                field: 'actions',
-                label: 'Actions',
-                element: '',
-                hide: false,
-                editable: true
-            }
-        ];
-        this.dataService.getData(url, this.data.objTemp).subscribe(function (results) {
-            if (!results || results.code === -1) {
-                _this.data.data = [];
-            }
-            else
-                _this.data.data = results.data;
-            // address:"hyderabad"
-            // amountPaid:0
-            // balance:0
-            // businessId:1
-            // confirmPassword:null
-            // contactNumber:9030152102
-            // designation:"TEACHER"
-            // dob:7102018
-            // email:"viliam@gmail.com"
-            // employeeId:"1"
-            // firstName:"sahitya"
-            // gender:"female"
-            // id:4
-            // isActive:1
-            // lastName:"charitha"
-            // password:null
-            // profilePic:null
-            // subjects:null
-            // totalSalary:3000
-            // userName:"kits"
-            // yearJoined:2015
-            // yearToTeach:null
-            _this.newRecord = {};
-            _this.callGrid = true;
-        });
-    };
-    ProfessorsComponent.prototype.addNewStudent = function (student) {
-        var _this = this;
-        var temp = {
-            "userName": student.employeeId,
-            "firstName": student.firstName,
-            "lastName": student.lastName,
-            "contactNumber": Number(student.contactNumber),
-            "email": student.email,
-            "address": student.address,
-            "gender": student.gender,
-            "totalSalary": student.totalSalary,
-            "yearJoined": this.dataService.convertDate(student.yearJoined, true),
-            "employeeId": student.employeeId,
-            "designation": "teacher",
-            "yearToTeach": student.yearToTeach.join(','),
-            "businessId": this.dataService.user.businessId,
-            "dob": this.dataService.convertDate(student.dob, true)
-        };
-        //"nextPaymentDate": this.dataService.convertDate(student.nextPaymentDate, true),
-        var url = "admin/addProfessor";
-        this.dataService.getData(url, temp).subscribe(function (results) {
-            if (!results || results.code === -1) {
-                _this.snackBar.open('Error Adding Professor', 'Ok', {
-                    duration: 5000,
-                });
-                return;
-            }
-            var urlFull = 'admin/getProfessorsByBusinessId';
-            _this.dataService.getData(urlFull, { "businessId": _this.dataService.user.businessId }).subscribe(function (results) {
-                if (!results || results.code === -1) {
-                    _this.data.data = [];
-                    return;
-                }
-                _this.flip();
-                _this.data.data = results.data;
-                _this.snackBar.open('Professor Added Succesfully', 'Ok', {
-                    duration: 5000,
-                });
-                _this.dataService.getDetails();
-            });
-        });
-        // this.data.data.push(this.newRecord);
-    };
-    ProfessorsComponent.prototype.onDelete = function (flag) {
-        this.snackBar.open('Professor Record ' + flag + ' Succesfully', 'Ok', {
-            duration: 5000,
-        });
-        this.callGrid = false;
-        this.getData();
-    };
-    ProfessorsComponent.prototype.flip = function () {
-        $('.card').toggleClass('flipped');
-        this.frontVisible = !this.frontVisible;
-    };
-    ProfessorsComponent = __decorate([
-        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Component"])({
-            selector: 'professors',
-            template: __webpack_require__("./src/app/modules/admin/professors/professors.component.html"),
-            styles: [__webpack_require__("./src/app/modules/admin/professors/professors.component.scss")]
-        }),
-        __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1__services_data_service__["a" /* DataService */], __WEBPACK_IMPORTED_MODULE_2__angular_material__["D" /* MatSnackBar */]])
-    ], ProfessorsComponent);
-    return ProfessorsComponent;
-}());
-
-
-
-/***/ }),
-
-/***/ "./src/app/modules/admin/results/results.component.html":
-/***/ (function(module, exports) {
-
-module.exports = "<div class=\"container students-view\">\n  <span class=\"selected-app-name\">{{user.selectedApp.name}}</span> \n  <span class=\"row go-icon\" *ngIf=\"!frontVisible\">\n    <span (click)=\"flip()\">\n      <button mat-button color=\"primary\">View Results Type</button>\n    </span>\n  </span> \n  <div class=\"card results\" [style.width.px]=\"data.width\" [style.height.px]=\"data.height\">\n    <div class=\"front\" *ngIf=\"frontVisible\" style=\"text-align: center;\">\n        <h1 class=\"cursor-pointer\" (click)=\"displayResults('internal')\">\n            Internal Test Results\n          </h1>\n          <h1></h1>\n          <h1 class=\"cursor-pointer\" (click)=\"displayResults('external')\">\n            External Test Results\n          </h1>\n    </div>\n    <div class=\"back\" *ngIf=\"!frontVisible\">\n        <add-form [fields]='searchFields' [(newRecord)]='newRecord' [button]=\"button\" (onAdd)=\"onSearch($event)\"></add-form>\n        <data-grid [(data)]=\"data\" (ondelete)=\"onDelete($event)\" [fields]='fields' [selectedApp]='dataService.selectedApp.name' *ngIf='callGrid'></data-grid>\n    </div>\n  </div>\n</div>"
-
-/***/ }),
-
-/***/ "./src/app/modules/admin/results/results.component.scss":
-/***/ (function(module, exports) {
-
-module.exports = "h1 {\n  padding: 25px; }\n\n.results .mat-header-row {\n  top: 183px; }\n"
-
-/***/ }),
-
-/***/ "./src/app/modules/admin/results/results.component.ts":
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return ResultsComponent; });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__("./node_modules/@angular/core/esm5/core.js");
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__services_data_service__ = __webpack_require__("./src/app/services/data.service.ts");
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__angular_material__ = __webpack_require__("./node_modules/@angular/material/esm5/material.es5.js");
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__components_popup_popup_component__ = __webpack_require__("./src/app/components/popup/popup.component.ts");
-var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
-    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
-    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
-    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
-    return c > 3 && r && Object.defineProperty(target, key, r), r;
-};
-var __metadata = (this && this.__metadata) || function (k, v) {
-    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
-};
-
-
-
-
-
-var ResultsComponent = /** @class */ (function () {
-    function ResultsComponent(dataService, dialog, snackBar) {
-        this.dataService = dataService;
-        this.dialog = dialog;
-        this.snackBar = snackBar;
-        this.frontVisible = true;
-        this.data = {};
-        this.fields = [];
-        this.newRecord = {};
-        this.years = [];
-    }
-    ResultsComponent.prototype.ngOnInit = function () {
-        this.user = this.dataService.user;
-        var today = new Date();
-        for (var i = 1990; i <= today.getFullYear(); i++) {
-            this.years.push({ id: i });
-        }
-        ;
-        this.data.additionalProperties = { businessId: this.dataService.user.businessId };
-        this.fields = [];
-        this.newRecord = {};
-        this.data.objTemp = { "businessId": this.dataService.user.businessId };
-        this.searchFields = [
-            {
-                field: 'year',
-                label: 'Year',
-                element: 'dropdown',
-                hide: false,
-                editable: true,
-                values: [
-                    { id: "1" },
-                    { id: "2" },
-                    { id: "3" },
-                    { id: "4" },
-                ],
-                update: true
-            },
-            {
-                field: 'course',
-                label: 'Course',
-                element: 'dropdown',
-                hide: false,
-                editable: true,
-                values: this.dataService.courses,
-                update: true
-            },
-            {
-                field: 'department',
-                label: 'Department',
-                element: 'dropdown',
-                hide: false,
-                editable: true,
-                values: this.dataService.departments,
-                update: true
-            },
-            {
-                field: 'semester',
-                label: 'Semester',
-                element: 'dropdown',
-                hide: false,
-                editable: true,
-                values: [
-                    { name: '1', id: '1' },
-                    { name: '2', id: '2' }
-                ],
-                update: true
-            }
-        ];
-    };
-    ResultsComponent.prototype.ngAfterContentChecked = function () {
-        this.getHeightWidth();
-    };
-    ResultsComponent.prototype.getHeightWidth = function () {
-        var height = ($('.nav-list')[0].offsetTop - $('.students-view .card')[0].offsetTop), width = $('.sidenav-body')[0].offsetWidth;
-        this.data.width = width - 45;
-        this.data.height = height - 82;
-        this.data.showFilter = true;
-        this.data.showFooter = false;
-        this.data.updatable = true;
-        this.data.deletable = true;
-    };
-    ResultsComponent.prototype.getData = function () {
-        var _this = this;
-        var url = this.url;
-        this.data.url = url;
-        this.dataService.getData(url, this.data.objTemp).subscribe(function (results) {
-            if (!results || results.code === -1) {
-                _this.data.data = [];
-            }
-            else
-                _this.data.data = results.data['The Total list of students is'];
-            _this.data.columns = ['studendtId', 'totalMarks'];
-            _this.fields = [
-                {
-                    field: 'studendtId',
-                    label: 'Student Id',
-                    element: 'input',
-                    remove: true,
-                    hide: false,
-                    editable: false,
-                    update: true
-                },
-                {
-                    field: 'totalMarks',
-                    label: 'Total Marks',
-                    element: 'input',
-                    hide: false,
-                    editable: true,
-                    update: true
-                },
-            ];
-            _this.callGrid = true;
-        });
-    };
-    ResultsComponent.prototype.onSearch = function (student) {
-        if (!student)
-            student = this.tempValue;
-        else
-            this.tempValue = student;
-        var temp = {
-            "year": student.year || '',
-            "semester": student.semester || '',
-            "course": student.course || '',
-            "department": student.department || '',
-            "businessId": this.dataService.user.businessId
-        };
-        this.data.objTemp = temp;
-        this.getData();
-    };
-    ResultsComponent.prototype.addNewStudent = function (student) {
-        this.data.data.push(this.newRecord);
-        this.flip();
-        this.dataService.getDetails();
-    };
-    ResultsComponent.prototype.flip = function () {
-        $('.card').toggleClass('flipped');
-        this.frontVisible = !this.frontVisible;
-        this.newRecord = {};
-    };
-    ResultsComponent.prototype.displayResults = function (type) {
-        this.callGrid = false;
-        if (type === 'internal') {
-            this.url = 'internals/getSumOfInternalMarks';
-            this.button = " Get Internal Marks";
-        }
-        else {
-            this.url = 'external/getSumExternalMarks';
-            this.button = " Get External Marks";
-        }
-        this.flip();
-    };
-    ResultsComponent.prototype.openSearch = function () {
-        var _this = this;
-        var dialogRef = this.dialog.open(__WEBPACK_IMPORTED_MODULE_3__components_popup_popup_component__["a" /* PopupComponent */], {
-            data: {
-                fields: this.searchFields,
-                data: {},
-                gridData: this.data,
-                button: 'View',
-                url: 'https://api.myjson.com/bins/rgabi',
-                name: 'Search'
-            }
-        });
-        dialogRef.afterClosed().subscribe(function (result) {
-            console.log(result);
-            _this.callGrid = false;
-            //this.data = result.gridData;
-        });
-    };
-    ResultsComponent = __decorate([
-        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Component"])({
-            selector: 'results',
-            template: __webpack_require__("./src/app/modules/admin/results/results.component.html"),
-            styles: [__webpack_require__("./src/app/modules/admin/results/results.component.scss")]
-        }),
-        __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1__services_data_service__["a" /* DataService */], __WEBPACK_IMPORTED_MODULE_2__angular_material__["i" /* MatDialog */], __WEBPACK_IMPORTED_MODULE_2__angular_material__["D" /* MatSnackBar */]])
-    ], ResultsComponent);
-    return ResultsComponent;
-}());
-
-
-
-/***/ }),
-
 /***/ "./src/app/modules/admin/security-management/security-management.component.html":
 /***/ (function(module, exports) {
 
@@ -5293,7 +3166,7 @@ var SecurityManagementComponent = /** @class */ (function () {
 /***/ "./src/app/modules/admin/sheep-management/sheep-management.component.html":
 /***/ (function(module, exports) {
 
-module.exports = "<div class=\"container students-view\">\n  <span class=\"selected-app-name\">{{user.selectedApp.name}}</span> \n  <span class=\"row go-icon\" *ngIf=\"frontVisible\">\n    <span (click)=\"flip()\">\n      <button mat-button color=\"primary\"><mat-icon>add</mat-icon>Add Cattle</button>\n    </span>\n  </span> \n  <span class=\"row go-icon\" *ngIf=\"!frontVisible\">\n    <span (click)=\"flip()\">\n      <button mat-button color=\"primary\">View Cattle</button>\n    </span>\n  </span> \n  <div class=\"card\" [style.width.px]=\"data.width\" [style.height.px]=\"data.height\">\n    <div class=\"front\" *ngIf=\"frontVisible\">\n      <data-grid [(data)]=\"data\" [fields]='fields' (ondelete)=\"onDelete($event)\" [selectedApp]='dataService.selectedApp.name' *ngIf='callGrid'></data-grid>\n    </div>\n    <div class=\"back\" *ngIf=\"!frontVisible\">\n      <add-form [fields]='fields' [(newRecord)]='newRecord' (onAdd)=\"addNew($event)\"></add-form>\n    </div>\n  </div>\n</div>"
+module.exports = "<div class=\"container students-view\">\n  <span class=\"selected-app-name\">{{user.selectedApp.name}}</span>\n  <span style=\"top: -22px;position: absolute;\">\n    <mat-form-field>\n      <mat-select placeholder=\"Search By\" [(ngModel)]='searchValue' [(value)]='searchValue' (selectionChange)=\"categoryChange()\">\n        <mat-option *ngFor=\"let value of categories\" [value]=\"value\">\n          {{ value }}\n        </mat-option>\n      </mat-select>\n    </mat-form-field>\n    <span *ngIf=\"viewSearch\">\n      <mat-form-field *ngIf=\"searchValue !== 'All' && searchValue !== 'Date' && searchValue !== 'Owner'\">\n        <input matInput placeholder=\"{{searchValue}}\" [(ngModel)]='inputValue'>\n      </mat-form-field>\n      <mat-form-field *ngIf=\"searchValue === 'Owner'\">\n        <mat-select placeholder=\"Owner Id\" [(ngModel)]='inputValue' [(value)]='inputValue'>\n          <mat-option *ngFor=\"let value of owner\" [value]=\"value.id\">\n            {{ value.value }}\n          </mat-option>\n        </mat-select>\n      </mat-form-field>\n      <mat-form-field *ngIf=\"searchValue === 'Date'\">\n        <input matInput [matDatepicker]=\"picker\" [(ngModel)]='inputValue' placeholder=\"Start Date\">\n        <mat-datepicker-toggle matSuffix [for]=\"picker\"></mat-datepicker-toggle>\n        <mat-datepicker #picker></mat-datepicker>\n      </mat-form-field>\n      <mat-form-field *ngIf=\"searchValue === 'Date'\">\n        <input matInput [matDatepicker]=\"picker\" [(ngModel)]='highValue' placeholder=\"End Date\">\n        <mat-datepicker-toggle matSuffix [for]=\"picker\"></mat-datepicker-toggle>\n        <mat-datepicker #picker></mat-datepicker>\n      </mat-form-field>\n      <button mat-raised-button color=\"primary\" (click)=\"search()\">Go</button>\n    </span>\n  </span>\n\n  <span class=\"row go-icon\" *ngIf=\"frontVisible\">\n    <span (click)=\"flip()\">\n      <button mat-button color=\"primary\">\n        <mat-icon>add</mat-icon>Add Sheep</button>\n    </span>\n  </span>\n  <span class=\"row go-icon\" *ngIf=\"!frontVisible\">\n    <span (click)=\"flip()\">\n      <button mat-button color=\"primary\">View Sheep</button>\n    </span>\n  </span>\n  <div class=\"card\" [style.width.px]=\"data.width\" [style.height.px]=\"data.height\">\n    <div class=\"front\" *ngIf=\"frontVisible\">\n      <data-grid [(data)]=\"data\" [fields]='fields' (ondelete)=\"onDelete($event)\" [selectedApp]='dataService.selectedApp.name' *ngIf='callGrid'></data-grid>\n    </div>\n    <div class=\"back\" *ngIf=\"!frontVisible\">\n      <add-form [fields]='fields' [(newRecord)]='newRecord' (onAdd)=\"addNew($event)\"></add-form>\n    </div>\n  </div>\n</div>"
 
 /***/ }),
 
@@ -5333,14 +3206,213 @@ var SheepManagementComponent = /** @class */ (function () {
         this.fields = [];
         this.newRecord = {};
         this.years = [];
+        this.phase = [];
+        this.unit = [];
+        this.owner = [];
+        this.cattleType = [];
+        this.categories = [];
+        this.searchValue = 'All';
+        this.inputValue = '';
+        this.highValue = '';
+        this.viewSearch = false;
     }
     SheepManagementComponent.prototype.ngOnInit = function () {
         this.dataService.getDetails();
         this.user = this.dataService.user;
-        this.getData();
+        this.categories = ['All', 'Owner', 'Temperature', 'Weight', 'Date'];
+        this.setValues();
+    };
+    SheepManagementComponent.prototype.setValues = function () {
+        var _this = this;
+        this.dataService.getRequest('customers').subscribe(function (results) {
+            for (var i = 0; i < results.length; i++) {
+                _this.owner.push({ id: results[0].id, value: results[0].customerName });
+            }
+            _this.dataService.getRequest('phase').subscribe(function (results) {
+                for (var i_1 = 0; i_1 < results.length; i_1++) {
+                    _this.phase.push({ id: results[0].id, value: results[0].phase });
+                }
+                _this.dataService.getRequest('unit').subscribe(function (results) {
+                    for (var i_2 = 0; i_2 < results.length; i_2++) {
+                        _this.unit.push({ id: results[0].id, value: results[0].unit });
+                    }
+                    _this.dataService.getRequest('cattleType').subscribe(function (results) {
+                        for (var i_3 = 0; i_3 < results.length; i_3++) {
+                            _this.cattleType.push({ id: results[0].id, value: results[0].cattleType });
+                        }
+                        _this.fields = [
+                            {
+                                field: 'id',
+                                label: 'Id',
+                                element: 'input',
+                                hide: true,
+                                editable: false,
+                                update: true
+                            },
+                            {
+                                field: 'rfid',
+                                label: 'RFId',
+                                element: 'input',
+                                hide: true,
+                                remove: true,
+                                updateField: true,
+                                editable: false,
+                                update: true
+                            },
+                            {
+                                field: 'cattleType',
+                                label: 'Cattle Type',
+                                element: 'dropdown',
+                                hide: false,
+                                editable: false,
+                                update: true,
+                                value: true,
+                                values: _this.cattleType
+                            },
+                            {
+                                field: 'age',
+                                label: 'Age',
+                                element: 'input',
+                                hide: false,
+                                editable: false,
+                                update: true
+                            },
+                            {
+                                field: 'contactNumber',
+                                label: 'contactNumber',
+                                element: 'input',
+                                hide: false,
+                                editable: false,
+                                update: true
+                            },
+                            {
+                                field: 'numberOfSheeps',
+                                label: 'Number Of Sheeps',
+                                element: 'number',
+                                hide: false,
+                                editable: false,
+                                update: true
+                            },
+                            {
+                                field: 'ownerName',
+                                label: 'Owner Id',
+                                element: 'dropdown',
+                                string: true,
+                                hide: false,
+                                editable: false,
+                                update: true,
+                                multiple: true,
+                                value: true,
+                                values: _this.owner
+                            },
+                            {
+                                field: 'startDate',
+                                label: 'Start Date',
+                                element: 'date',
+                                hide: false,
+                                editable: false,
+                                update: true
+                            },
+                            {
+                                field: 'temperature',
+                                label: 'Temperature',
+                                element: 'input',
+                                hide: false,
+                                editable: false,
+                                update: true
+                            },
+                            {
+                                field: 'unitNumber',
+                                label: 'Unit Number',
+                                element: 'dropdown',
+                                hide: false,
+                                editable: false,
+                                value: true,
+                                update: true,
+                                values: _this.unit
+                            },
+                            {
+                                field: 'weight',
+                                label: 'Weight',
+                                element: 'input',
+                                hide: false,
+                                editable: false,
+                                update: true
+                            },
+                            {
+                                field: 'actions',
+                                label: 'Actions',
+                                element: '',
+                                hide: false,
+                                editable: true
+                            }
+                        ];
+                        _this.getData();
+                    });
+                });
+            });
+        });
     };
     SheepManagementComponent.prototype.ngAfterContentChecked = function () {
         this.getHeightWidth();
+    };
+    SheepManagementComponent.prototype.categoryChange = function () {
+        this.viewSearch = true;
+        this.inputValue = '';
+        this.highValue = '';
+    };
+    SheepManagementComponent.prototype.search = function () {
+        var _this = this;
+        this.callGrid = false;
+        var urlTemp = '', value = this.searchValue;
+        if (value === 'All') {
+            urlTemp = 'sheep';
+            this.data.data = [];
+            this.dataService.getRequest(urlTemp).subscribe(function (results) {
+                if (!results.length) {
+                    _this.data.data = [];
+                }
+                else
+                    _this.data.data = results;
+                _this.newRecord = {};
+                _this.callGrid = true;
+            });
+        }
+        if (value === 'Date') {
+            urlTemp = 'sheep/getBydate';
+            var temp = {
+                "endDate": this.dataService.convertDate(this.inputValue, true),
+                "startDate": this.dataService.convertDate(this.highValue, true)
+            };
+            this.data.data = [];
+            this.dataService.getData(urlTemp, temp).subscribe(function (results) {
+                if (!results.length) {
+                    _this.data.data = [];
+                }
+                else
+                    _this.data.data = results;
+                _this.newRecord = {};
+                _this.callGrid = true;
+            });
+        }
+        else {
+            if (value === 'Temperature')
+                urlTemp = 'getsheeps/' + this.inputValue;
+            else if (value === 'Weight')
+                urlTemp = 'sheepsby/' + this.inputValue;
+            else
+                urlTemp = 'sheeps/' + this.inputValue;
+            this.data.data = [];
+            this.dataService.getRequest(urlTemp).subscribe(function (results) {
+                if (!results.length) {
+                    _this.data.data = [];
+                }
+                else
+                    _this.data.data = results;
+                _this.newRecord = {};
+                _this.callGrid = true;
+            });
+        }
     };
     SheepManagementComponent.prototype.getHeightWidth = function () {
         var height = ($('.nav-list')[0].offsetTop - $('.students-view .card')[0].offsetTop), width = $('.sidenav-body')[0].offsetWidth;
@@ -5358,105 +3430,6 @@ var SheepManagementComponent = /** @class */ (function () {
         this.data.deleteUrl = 'sheep/';
         this.data.deleteMethod = true;
         this.data.editUrl = 'sheep';
-        this.fields = [
-            {
-                field: 'id',
-                label: 'Id',
-                element: 'input',
-                hide: true,
-                editable: false,
-                update: true
-            },
-            {
-                field: 'rfid',
-                label: 'RFId',
-                element: 'input',
-                hide: false,
-                remove: true,
-                updateField: true,
-                editable: false,
-                update: true
-            },
-            {
-                field: 'cattleType',
-                label: 'Cattle Type',
-                element: 'input',
-                hide: false,
-                editable: false,
-                update: true
-            },
-            {
-                field: 'age',
-                label: 'Age',
-                element: 'input',
-                hide: false,
-                editable: false,
-                update: true
-            },
-            {
-                field: 'contactNumber',
-                label: 'contactNumber',
-                element: 'input',
-                hide: false,
-                editable: false,
-                update: true
-            },
-            {
-                field: 'numberOfSheeps',
-                label: 'Number Of Sheeps',
-                element: 'number',
-                hide: false,
-                editable: false,
-                update: true
-            },
-            {
-                field: 'ownerName',
-                label: 'Owner Name',
-                element: 'input',
-                hide: false,
-                editable: false,
-                update: true
-            },
-            {
-                field: 'startDate',
-                label: 'Start Date',
-                element: 'date',
-                hide: false,
-                editable: false,
-                update: true
-            },
-            {
-                field: 'temperature',
-                label: 'Temperature',
-                element: 'input',
-                hide: false,
-                editable: false,
-                update: true
-            },
-            {
-                field: 'unitNumber',
-                label: 'Unit Number',
-                element: 'input',
-                hide: false,
-                editable: false,
-                update: true
-            },
-            {
-                field: 'weight',
-                label: 'Weight',
-                element: 'input',
-                hide: false,
-                editable: false,
-                update: true
-            },
-            {
-                field: 'actions',
-                label: 'Actions',
-                element: '',
-                hide: false,
-                editable: true
-            }
-        ];
         this.data.data = [];
         this.dataService.getRequest(url).subscribe(function (results) {
             if (!results.length) {
@@ -5475,7 +3448,7 @@ var SheepManagementComponent = /** @class */ (function () {
             "cattleType": details.cattleType,
             "contactNumber": details.contactNumber,
             "numberOfSheeps": details.numberOfSheeps,
-            "ownerName": details.ownerName,
+            "ownerName": details.ownerName.join(','),
             "rfid": details.rfid,
             "startDate": this.dataService.convertDate(details.startDate, true),
             "temperature": details.temperature,
@@ -5515,6 +3488,7 @@ var SheepManagementComponent = /** @class */ (function () {
         this.getData();
     };
     SheepManagementComponent.prototype.flip = function () {
+        this.setValues();
         $('.card').toggleClass('flipped');
         this.frontVisible = !this.frontVisible;
     };
@@ -5613,6 +3587,14 @@ var StaffManagementComponent = /** @class */ (function () {
                 update: true
             },
             {
+                field: 'documents',
+                label: 'Documents',
+                element: 'fileUpload',
+                hide: false,
+                editable: true,
+                update: true
+            },
+            {
                 field: 'userName',
                 label: 'User Name',
                 element: 'input',
@@ -5662,14 +3644,6 @@ var StaffManagementComponent = /** @class */ (function () {
             {
                 field: 'salary',
                 label: 'Salary',
-                element: 'input',
-                hide: false,
-                editable: true,
-                update: true
-            },
-            {
-                field: 'documents',
-                label: 'Documents',
                 element: 'input',
                 hide: false,
                 editable: true,
@@ -5774,1002 +3748,6 @@ var StaffManagementComponent = /** @class */ (function () {
 
 /***/ }),
 
-/***/ "./src/app/modules/admin/staff/staff.component.html":
-/***/ (function(module, exports) {
-
-module.exports = "<div class=\"container students-view\">\n    <span class=\"selected-app-name\">{{user.selectedApp.name}}</span> \n    <span class=\"row go-icon\" *ngIf=\"frontVisible\">\n      <span (click)=\"flip()\">\n        <button mat-button color=\"primary\"><mat-icon>add</mat-icon>Add Staff</button>\n      </span>\n    </span> \n    <span class=\"row go-icon\" *ngIf=\"!frontVisible\">\n      <span (click)=\"flip()\">\n        <button mat-button color=\"primary\">View Staff</button>\n      </span>\n    </span> \n    <div class=\"card\" [style.width.px]=\"data.width\" [style.height.px]=\"data.height\">\n      <div class=\"front\" *ngIf=\"frontVisible\">\n        <data-grid [(data)]=\"data\" [fields]='fields'(ondelete)=\"onDelete($event)\" [selectedApp]='dataService.selectedApp.name' *ngIf='callGrid'></data-grid>\n      </div>\n      <div class=\"back\" *ngIf=\"!frontVisible\">\n        <add-form [fields]='fields' [(newRecord)]='newRecord' (onAdd)=\"addNewStudent($event)\"></add-form>\n      </div>\n    </div>\n  </div>"
-
-/***/ }),
-
-/***/ "./src/app/modules/admin/staff/staff.component.scss":
-/***/ (function(module, exports) {
-
-module.exports = ""
-
-/***/ }),
-
-/***/ "./src/app/modules/admin/staff/staff.component.ts":
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return StaffComponent; });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__("./node_modules/@angular/core/esm5/core.js");
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__services_data_service__ = __webpack_require__("./src/app/services/data.service.ts");
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__angular_material__ = __webpack_require__("./node_modules/@angular/material/esm5/material.es5.js");
-var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
-    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
-    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
-    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
-    return c > 3 && r && Object.defineProperty(target, key, r), r;
-};
-var __metadata = (this && this.__metadata) || function (k, v) {
-    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
-};
-
-
-
-var StaffComponent = /** @class */ (function () {
-    function StaffComponent(dataService, snackBar) {
-        this.dataService = dataService;
-        this.snackBar = snackBar;
-        this.frontVisible = true;
-        this.data = {};
-        this.fields = [];
-        this.newRecord = {};
-        this.years = [];
-    }
-    StaffComponent.prototype.ngOnInit = function () {
-        this.user = this.dataService.user;
-        this.getData();
-        var today = new Date();
-        for (var i = 1990; i <= today.getFullYear(); i++) {
-            this.years.push({ id: i });
-        }
-        ;
-    };
-    StaffComponent.prototype.ngAfterContentChecked = function () {
-        this.getHeightWidth();
-    };
-    StaffComponent.prototype.getHeightWidth = function () {
-        var height = ($('.nav-list')[0].offsetTop - $('.students-view .card')[0].offsetTop), width = $('.sidenav-body')[0].offsetWidth;
-        this.data.width = width - 45;
-        this.data.height = height - 82;
-        ;
-        this.data.showFilter = true;
-        this.data.showFooter = false;
-        this.data.updatable = true;
-        this.data.deletable = true;
-    };
-    StaffComponent.prototype.getData = function () {
-        var _this = this;
-        var url = 'admin/viewStaffMapping';
-        this.data.url = url;
-        this.data.deleteUrl = 'admin/deleteStaffMapping/';
-        this.data.deleteMethod = true;
-        this.data.editUrl = 'admin/editStaffMapping';
-        this.data.objTemp = { "businessId": this.dataService.user.businessId };
-        this.data.additionalProperties = { businessId: this.dataService.user.businessId };
-        this.data.columns = ['id', 'staffId', 'year', 'course', 'department', 'semester', 'section', 'subject'];
-        this.fields = [
-            {
-                field: 'id',
-                label: 'Id',
-                element: 'input',
-                editable: true,
-                update: true,
-                hide: true,
-                remove: true
-            },
-            {
-                field: 'staffId',
-                label: 'Staff Id',
-                element: 'input',
-                hide: false,
-                editable: true,
-                update: true
-            },
-            {
-                field: 'year',
-                label: 'Year',
-                element: 'dropdown',
-                hide: false,
-                editable: true,
-                values: [
-                    { id: "1" },
-                    { id: "2" },
-                    { id: "3" },
-                    { id: "4" },
-                ],
-                update: true
-            },
-            {
-                field: 'course',
-                label: 'Course',
-                element: 'dropdown',
-                hide: false,
-                editable: true,
-                values: this.dataService.courses,
-                update: true
-            },
-            {
-                field: 'department',
-                label: 'Department',
-                element: 'dropdown',
-                hide: false,
-                editable: true,
-                values: this.dataService.departments,
-                update: true
-            },
-            {
-                field: 'semester',
-                label: 'Semester',
-                element: 'dropdown',
-                hide: false,
-                editable: true,
-                values: [
-                    { name: '1', id: '1' },
-                    { name: '2', id: '2' }
-                ],
-                update: true
-            },
-            {
-                field: 'section',
-                label: 'Section',
-                element: 'dropdown',
-                hide: false,
-                editable: true,
-                values: [
-                    { name: 'A', id: 'A' },
-                    { name: 'B', id: 'B' }
-                ],
-                update: true
-            },
-            {
-                field: 'subject',
-                label: 'Subject Name',
-                element: 'input',
-                hide: false,
-                editable: true,
-                update: true
-            },
-            {
-                field: 'actions',
-                label: 'Actions',
-                element: '',
-                hide: false,
-                editable: true
-            }
-        ];
-        this.dataService.getData(url, this.data.objTemp).subscribe(function (results) {
-            if (!results || results.code === -1) {
-                _this.data.data = [];
-            }
-            else
-                _this.data.data = results.data;
-            _this.newRecord = {};
-            _this.callGrid = true;
-        });
-    };
-    StaffComponent.prototype.addNewStudent = function (student) {
-        var _this = this;
-        var temp = {
-            "staffId": student.staffId,
-            "department": student.department,
-            "course": student.course,
-            "year": student.year,
-            "semester": student.semester,
-            "subject": student.subject,
-            "section": student.section,
-            "businessId": this.dataService.user.businessId
-        };
-        var url = "admin/addStaffMapping";
-        this.dataService.getData(url, temp).subscribe(function (results) {
-            if (!results || results.code === -1) {
-                _this.snackBar.open('Error Adding Staff', 'Ok', {
-                    duration: 5000,
-                });
-                return;
-            }
-            var urlFull = 'admin/viewStaffMapping';
-            _this.dataService.getData(urlFull, { "businessId": _this.dataService.user.businessId }).subscribe(function (results) {
-                if (!results || results.code === -1) {
-                    _this.data.data = [];
-                    return;
-                }
-                _this.flip();
-                _this.data.data = results.data;
-                _this.snackBar.open('Staff Added Succesfully', 'Ok', {
-                    duration: 5000,
-                });
-                _this.dataService.getDetails();
-            });
-        });
-        // this.data.data.push(this.newRecord);
-    };
-    StaffComponent.prototype.onDelete = function (flag) {
-        this.snackBar.open('Staff Record ' + flag + ' Succesfully', 'Ok', {
-            duration: 5000,
-        });
-        this.callGrid = false;
-        this.getData();
-    };
-    StaffComponent.prototype.flip = function () {
-        $('.card').toggleClass('flipped');
-        this.frontVisible = !this.frontVisible;
-    };
-    StaffComponent = __decorate([
-        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Component"])({
-            selector: 'staff',
-            template: __webpack_require__("./src/app/modules/admin/staff/staff.component.html"),
-            styles: [__webpack_require__("./src/app/modules/admin/staff/staff.component.scss")]
-        }),
-        __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1__services_data_service__["a" /* DataService */], __WEBPACK_IMPORTED_MODULE_2__angular_material__["D" /* MatSnackBar */]])
-    ], StaffComponent);
-    return StaffComponent;
-}());
-
-
-
-/***/ }),
-
-/***/ "./src/app/modules/admin/students/students.component.html":
-/***/ (function(module, exports) {
-
-module.exports = "<div class=\"container students-view\">\n  <span class=\"selected-app-name\">{{user.selectedApp.name}}</span> \n  <span class=\"row go-icon\" *ngIf=\"frontVisible\">\n    <span (click)=\"flip()\">\n      <button mat-button color=\"primary\"><mat-icon>add</mat-icon>Add Student</button>\n    </span>\n  </span> \n  <span class=\"row go-icon\" *ngIf=\"!frontVisible\">\n    <span (click)=\"flip()\">\n      <button mat-button color=\"primary\">View Students</button>\n    </span>\n  </span> \n  <div class=\"card\" [style.width.px]=\"data.width\" [style.height.px]=\"data.height\">\n    <div class=\"front\" *ngIf=\"frontVisible\">\n      <data-grid [(data)]=\"data\" [fields]='fields' [selectedApp]='dataService.selectedApp.name' (ondelete)=\"onDelete($event)\" *ngIf='callGrid'></data-grid>\n    </div>\n    <div class=\"back\" *ngIf=\"!frontVisible\">\n      <add-form [fields]='data.addFields' [(newRecord)]='newRecord' (onAdd)=\"addNewStudent($event)\"></add-form>\n    </div>\n  </div>\n</div>"
-
-/***/ }),
-
-/***/ "./src/app/modules/admin/students/students.component.scss":
-/***/ (function(module, exports) {
-
-module.exports = ""
-
-/***/ }),
-
-/***/ "./src/app/modules/admin/students/students.component.ts":
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return StudentsComponent; });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__("./node_modules/@angular/core/esm5/core.js");
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__services_data_service__ = __webpack_require__("./src/app/services/data.service.ts");
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__angular_material__ = __webpack_require__("./node_modules/@angular/material/esm5/material.es5.js");
-var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
-    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
-    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
-    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
-    return c > 3 && r && Object.defineProperty(target, key, r), r;
-};
-var __metadata = (this && this.__metadata) || function (k, v) {
-    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
-};
-
-
-
-var StudentsComponent = /** @class */ (function () {
-    function StudentsComponent(dataService, snackBar) {
-        this.dataService = dataService;
-        this.snackBar = snackBar;
-        this.frontVisible = true;
-        this.data = {};
-        this.fields = [];
-        this.newRecord = {};
-        this.years = [];
-    }
-    StudentsComponent.prototype.ngOnInit = function () {
-        this.user = this.dataService.user;
-        this.getData();
-        var today = new Date();
-        for (var i = 1990; i <= today.getFullYear(); i++) {
-            this.years.push({ id: i });
-        }
-        ;
-    };
-    StudentsComponent.prototype.ngAfterContentChecked = function () {
-        this.getHeightWidth();
-    };
-    StudentsComponent.prototype.getHeightWidth = function () {
-        var height = ($('.nav-list')[0].offsetTop - $('.students-view .card')[0].offsetTop), width = $('.sidenav-body')[0].offsetWidth;
-        this.data.width = width - 45;
-        this.data.height = height - 82;
-        this.data.showFilter = true;
-        this.data.showFooter = false;
-        this.data.updatable = true;
-        this.data.deletable = true;
-    };
-    StudentsComponent.prototype.getData = function () {
-        var _this = this;
-        //let url = 'https://api.myjson.com/bins/128rnq';
-        var url = 'admin/getStudentByBusinessId';
-        this.data.url = url;
-        this.data.deleteUrl = 'admin/removeStudent';
-        this.data.editUrl = 'admin/editStudent';
-        this.data.objTemp = { "businessId": this.dataService.user.businessId };
-        this.data.additionalProperties = { businessId: this.dataService.user.businessId };
-        this.data.columns = ['profilePic', 'studentId', 'firstName', 'lastName', 'gender', 'parentName', 'address', 'department', 'course', 'semester', 'section', 'year', 'yearPeriod', 'dob', 'email', 'contactNumber', 'totalFees'];
-        this.fields = [
-            {
-                field: 'profilePic',
-                label: 'Picture',
-                element: 'image',
-                hide: true,
-                editable: true
-            },
-            {
-                field: 'studentId',
-                label: 'Student Id',
-                element: 'input',
-                remove: true,
-                hide: false,
-                editable: false,
-                update: true
-            },
-            {
-                field: 'firstName',
-                label: 'First Name',
-                element: 'input',
-                hide: false,
-                editable: true,
-                update: true
-            },
-            {
-                field: 'lastName',
-                label: 'Last Name',
-                element: 'input',
-                hide: false,
-                editable: true,
-                update: true
-            },
-            {
-                field: 'gender',
-                label: 'Gender',
-                element: 'dropdown',
-                hide: false,
-                editable: true,
-                values: [{
-                        id: 'male'
-                    }, {
-                        id: 'female'
-                    }],
-                update: true
-            },
-            {
-                field: 'parentName',
-                label: 'Parent Name',
-                element: 'input',
-                hide: false,
-                editable: true,
-                update: true
-            },
-            {
-                field: 'address',
-                label: 'Address',
-                element: 'input',
-                hide: false,
-                editable: true,
-                update: true
-            },
-            {
-                field: 'course',
-                label: 'Course',
-                element: 'dropdown',
-                hide: false,
-                editable: true,
-                values: this.dataService.courses,
-                update: true
-            },
-            {
-                field: 'department',
-                label: 'Department',
-                element: 'dropdown',
-                hide: false,
-                editable: true,
-                values: this.dataService.departments,
-                update: true
-            },
-            {
-                field: 'semester',
-                label: 'Semester',
-                element: 'dropdown',
-                hide: false,
-                editable: true,
-                values: [
-                    { name: '1', id: '1' },
-                    { name: '2', id: '2' }
-                ],
-                update: true
-            },
-            // {
-            //   field: 'semester',
-            //   label: 'Semester',
-            //   element: 'valuehelp',
-            //   dependsOn: 'course',
-            //   hide: false,
-            //   editable: true,
-            //   values: [
-            //     { name: '1', id: '1' },
-            //     { name: '2', id: '2' }
-            //   ]
-            // },
-            {
-                field: 'section',
-                label: 'Section',
-                element: 'dropdown',
-                hide: false,
-                editable: true,
-                update: true,
-                values: [
-                    { name: 'A', id: 'A' },
-                    { name: 'B', id: 'B' }
-                ]
-            },
-            {
-                field: 'year',
-                label: 'Year',
-                element: 'dropdown',
-                hide: false,
-                editable: true,
-                values: [
-                    { id: "1" },
-                    { id: "2" },
-                    { id: "3" },
-                    { id: "4" },
-                ],
-                update: true
-            },
-            {
-                field: 'yearPeriod',
-                label: 'Year Period',
-                element: 'input',
-                hide: false,
-                editable: true,
-                update: true
-            },
-            {
-                field: 'dob',
-                label: 'Date Of Birth',
-                element: 'date',
-                hide: false,
-                editable: true,
-                update: true
-            },
-            {
-                field: 'email',
-                label: 'Email',
-                element: 'input',
-                hide: false,
-                editable: true,
-                update: true
-            },
-            {
-                field: 'contactNumber',
-                label: 'Contact',
-                element: 'number',
-                hide: false,
-                editable: true,
-                update: true
-            },
-            {
-                field: 'totalFees',
-                label: 'Total Fees',
-                element: 'input',
-                hide: false,
-                editable: true,
-                update: true
-            },
-            // {
-            //   field: 'Docs',
-            //   label: 'Documents',
-            //   element: 'fileUpload',
-            //   hide: false,
-            //   editable: true
-            // },
-            {
-                field: 'actions',
-                label: 'Actions',
-                element: '',
-                hide: false,
-                editable: true
-            }
-        ];
-        var moreFields = [
-            {
-                field: 'parentUserName',
-                label: 'Parent UserName',
-                element: 'input',
-                hide: false,
-                editable: true
-            },
-            {
-                field: 'parentPhoneNumber',
-                label: 'Parent Phone Number',
-                element: 'input',
-                hide: false,
-                editable: true
-            },
-            {
-                field: 'parentEmail',
-                label: 'Parent Email',
-                element: 'input',
-                hide: false,
-                editable: true
-            },
-            {
-                field: 'nextPaymentDate',
-                label: 'Next Payment Date',
-                element: 'date',
-                hide: false,
-                editable: true
-            },
-            {
-                field: 'noOfTerms',
-                label: 'Terms',
-                element: 'input',
-                hide: false,
-                editable: true
-            },
-            {
-                field: 'amountPaid',
-                label: 'Amount Paid',
-                element: 'input',
-                hide: false,
-                editable: true
-            },
-            {
-                field: 'schloarShipType',
-                label: 'SchloarShip Type',
-                element: 'dropdown',
-                hide: false,
-                editable: true,
-                values: [
-                    { id: '', name: 'None' },
-                    { id: 'govt', name: 'Government' },
-                    { id: 'private', name: 'Private' }
-                ]
-            },
-            {
-                field: 'schloarShipAmount',
-                label: 'SchloarShip Amount',
-                element: 'input',
-                hide: false,
-                editable: true
-            }
-        ];
-        this.data.addFields = this.fields.concat(moreFields);
-        this.dataService.getData(url, this.data.objTemp).subscribe(function (results) {
-            if (!results || results.code === -1) {
-                _this.data.data = [];
-            }
-            else
-                _this.data.data = results.data;
-            //address:"kphb"
-            // amountBalance:8000
-            // amountPaid:2000
-            // businessId:1
-            // confirmPassword:null
-            // contactNumber:9876787898
-            // course:"cse"
-            // currentPaymentDate:0
-            // department:"btech"
-            // designation:"STUDENT"
-            // dob:1529994977258
-            // email:"ss1@gmail.com"
-            // fee:0
-            // firstName:"pratyusha"
-            // gender:"female"
-            // id:4
-            // isActive:1
-            // lastName:"k"
-            // nextPaymentDate:1529994977258
-            // noOfTerms:2
-            // parentEmail:null
-            // parentName:null
-            // parentPhoneNumber:0
-            // parentUserName:null
-            // password:null
-            // profilePic:null
-            // schloarShipAmount:3000
-            // schloarShipType:"govt"
-            // section:null
-            // semester:"1"
-            // studentId:"ss2"
-            // totalFees:10000
-            // userName:"ss2"
-            // year:"1"
-            // yearPeriod:"2010-2014"
-            _this.newRecord = {};
-            _this.callGrid = true;
-        });
-    };
-    StudentsComponent.prototype.addNewStudent = function (student) {
-        var _this = this;
-        var temp = {
-            "studentId": student.studentId,
-            "userName": student.studentId,
-            "firstName": student.firstName,
-            "lastName": student.lastName,
-            "parentName": student.parentName,
-            "department": student.department,
-            "course": student.course,
-            "section": student.section,
-            "year": student.year,
-            "semester": student.semester,
-            "yearPeriod": student.yearPeriod,
-            "dob": this.dataService.convertDate(student.dob, true),
-            "email": student.email,
-            "contactNumber": student.contactNumber,
-            "gender": student.gender,
-            "parentUserName": student.parentUserName,
-            "parentPhoneNumber": student.parentPhoneNumber,
-            "parentEmail": student.parentEmail,
-            "designation": "student",
-            "businessId": this.dataService.user.businessId,
-            "totalFees": student.totalFees,
-            "nextPaymentDate": this.dataService.convertDate(student.nextPaymentDate, true),
-            "noOfTerms": student.noOfTerms,
-            "amountPaid": student.amountPaid,
-            "schloarShipType": student.schloarShipType,
-            "schloarShipAmount": student.schloarShipAmount,
-            "address": student.address
-        };
-        var url = "admin/addStudent";
-        this.dataService.getData(url, temp).subscribe(function (results) {
-            if (!results || results.code === -1) {
-                _this.snackBar.open('Error Adding Student', 'Ok', {
-                    duration: 5000,
-                });
-                return;
-            }
-            var urlFull = 'admin/getStudentByBusinessId';
-            _this.dataService.getData(urlFull, { "businessId": _this.dataService.user.businessId }).subscribe(function (results) {
-                if (!results || results.code === -1) {
-                    _this.data.data = [];
-                    return;
-                }
-                _this.flip();
-                _this.data.data = results.data;
-                _this.snackBar.open('Student Added Succesfully', 'Ok', {
-                    duration: 5000,
-                });
-                _this.dataService.getDetails();
-            });
-        });
-        // this.data.data.push(this.newRecord);
-    };
-    StudentsComponent.prototype.onDelete = function (flag) {
-        this.snackBar.open('Student Record ' + flag + ' Succesfully', 'Ok', {
-            duration: 5000,
-        });
-        this.callGrid = false;
-        this.getData();
-    };
-    StudentsComponent.prototype.flip = function () {
-        $('.card').toggleClass('flipped');
-        this.frontVisible = !this.frontVisible;
-    };
-    StudentsComponent = __decorate([
-        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Component"])({
-            selector: 'students',
-            template: __webpack_require__("./src/app/modules/admin/students/students.component.html"),
-            styles: [__webpack_require__("./src/app/modules/admin/students/students.component.scss")]
-        }),
-        __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1__services_data_service__["a" /* DataService */], __WEBPACK_IMPORTED_MODULE_2__angular_material__["D" /* MatSnackBar */]])
-    ], StudentsComponent);
-    return StudentsComponent;
-}());
-
-
-
-/***/ }),
-
-/***/ "./src/app/modules/admin/subjects/subjects.component.html":
-/***/ (function(module, exports) {
-
-module.exports = "<div class=\"container students-view\">\n  <span class=\"selected-app-name\">{{user.selectedApp.name}}</span> \n  <span class=\"row go-icon\" *ngIf=\"frontVisible\">\n    <span (click)=\"flip()\">\n      <button mat-button color=\"primary\"><mat-icon>add</mat-icon>Add Subjects</button>\n    </span>\n    <span (click)=\"showSearch = true\" *ngIf=\"!showSearch\">\n      <button mat-button color=\"primary\"><mat-icon>search</mat-icon>Show Search</button>\n    </span>\n  </span> \n  <span class=\"row go-icon\" *ngIf=\"!frontVisible\">\n    <span (click)=\"flip()\">\n      <button mat-button color=\"primary\">View Subjects</button>\n    </span>\n  </span> \n  <div class=\"card\" [style.width.px]=\"data.width\" [style.height.px]=\"data.height\">\n    <div class=\"front\" *ngIf=\"frontVisible\">\n        <add-form *ngIf=\"showSearch\" [fields]='searchFields' [(newRecord)]='newRecord' [button]=\"'Get Subjects'\" (onAdd)=\"onSearch($event)\"></add-form>\n      <data-grid [(data)]=\"data\" [fields]='fields' (ondelete)=\"onDelete($event)\" [selectedApp]='dataService.selectedApp.name' *ngIf='callGrid && !showSearch'></data-grid>\n    </div>\n    <div class=\"back\" *ngIf=\"!frontVisible\">\n      <add-form [fields]='fields' [(newRecord)]='newRecord' (onAdd)=\"addNewStudent($event)\"></add-form>\n    </div>\n  </div>\n</div>"
-
-/***/ }),
-
-/***/ "./src/app/modules/admin/subjects/subjects.component.scss":
-/***/ (function(module, exports) {
-
-module.exports = ""
-
-/***/ }),
-
-/***/ "./src/app/modules/admin/subjects/subjects.component.ts":
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return SubjectsComponent; });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__("./node_modules/@angular/core/esm5/core.js");
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__services_data_service__ = __webpack_require__("./src/app/services/data.service.ts");
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__angular_material__ = __webpack_require__("./node_modules/@angular/material/esm5/material.es5.js");
-var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
-    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
-    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
-    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
-    return c > 3 && r && Object.defineProperty(target, key, r), r;
-};
-var __metadata = (this && this.__metadata) || function (k, v) {
-    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
-};
-
-
-
-var SubjectsComponent = /** @class */ (function () {
-    function SubjectsComponent(dataService, snackBar) {
-        this.dataService = dataService;
-        this.snackBar = snackBar;
-        this.frontVisible = true;
-        this.data = {};
-        this.fields = [];
-        this.newRecord = {};
-        this.years = [];
-        this.showSearch = true;
-    }
-    SubjectsComponent.prototype.ngOnInit = function () {
-        this.user = this.dataService.user;
-        var today = new Date();
-        for (var i = 1990; i <= today.getFullYear(); i++) {
-            this.years.push({ id: i });
-        }
-        ;
-        this.data.deleteMethod = true;
-        this.data.deleteUrl = 'admin/deleteSubjects/';
-        this.data.editUrl = 'admin/editSubjects';
-        this.data.additionalProperties = { businessId: this.dataService.user.businessId };
-        this.data.columns = ['id', 'subjectName'];
-        this.fields = [
-            {
-                field: 'id',
-                label: 'Id',
-                element: 'input',
-                hide: true,
-                editable: true
-            },
-            {
-                field: 'year',
-                label: 'Year',
-                element: 'dropdown',
-                hide: false,
-                editable: true,
-                values: [
-                    { id: "1" },
-                    { id: "2" },
-                    { id: "3" },
-                    { id: "4" },
-                ],
-                update: true
-            },
-            {
-                field: 'course',
-                label: 'Course',
-                element: 'dropdown',
-                hide: false,
-                editable: true,
-                values: this.dataService.courses,
-                update: true
-            },
-            {
-                field: 'department',
-                label: 'Department',
-                element: 'dropdown',
-                hide: false,
-                editable: true,
-                values: this.dataService.departments,
-                update: true
-            },
-            {
-                field: 'semester',
-                label: 'Semester',
-                element: 'dropdown',
-                hide: false,
-                editable: true,
-                values: [
-                    { name: '1', id: '1' },
-                    { name: '2', id: '2' }
-                ],
-                update: true
-            },
-            {
-                field: 'subjectName',
-                label: 'Subject Name',
-                element: 'input',
-                hide: false,
-                editable: true,
-                update: true
-            }
-        ];
-        this.newRecord = {};
-        this.data.objTemp = { "businessId": this.dataService.user.businessId };
-        this.searchFields = [
-            {
-                field: 'year',
-                label: 'Year',
-                element: 'dropdown',
-                hide: false,
-                editable: true,
-                values: [
-                    { id: "1" },
-                    { id: "2" },
-                    { id: "3" },
-                    { id: "4" },
-                ],
-                update: true
-            },
-            {
-                field: 'course',
-                label: 'Course',
-                element: 'dropdown',
-                hide: false,
-                editable: true,
-                values: this.dataService.courses,
-                update: true
-            },
-            {
-                field: 'department',
-                label: 'Department',
-                element: 'dropdown',
-                hide: false,
-                editable: true,
-                values: this.dataService.departments,
-                update: true
-            },
-            {
-                field: 'semester',
-                label: 'Semester',
-                element: 'dropdown',
-                hide: false,
-                editable: true,
-                values: [
-                    { name: '1', id: '1' },
-                    { name: '2', id: '2' }
-                ],
-                update: true
-            }
-        ];
-    };
-    SubjectsComponent.prototype.ngAfterContentChecked = function () {
-        this.getHeightWidth();
-    };
-    SubjectsComponent.prototype.getHeightWidth = function () {
-        var height = ($('.nav-list')[0].offsetTop - $('.students-view .card')[0].offsetTop), width = $('.sidenav-body')[0].offsetWidth;
-        this.data.width = width - 45;
-        this.data.height = height - 82;
-        this.data.showFilter = true;
-        this.data.showFooter = false;
-        this.data.updatable = true;
-        this.data.deletable = true;
-    };
-    SubjectsComponent.prototype.getData = function () {
-        var _this = this;
-        var url = 'admin/getSubjects';
-        this.data.url = url;
-        this.dataService.getData(url, this.data.objTemp).subscribe(function (results) {
-            if (results.code === -1) {
-                results.data = [];
-            }
-            else
-                _this.data.data = results.data;
-            _this.callGrid = true;
-            _this.showSearch = !_this.showSearch;
-        });
-    };
-    SubjectsComponent.prototype.onSearch = function (student) {
-        if (!student)
-            student = this.tempValue;
-        else
-            this.tempValue = student;
-        var temp = {
-            "year": student.year || '',
-            "semester": student.semester || '',
-            "course": student.course || '',
-            "department": student.department || '',
-            "businessId": this.dataService.user.businessId
-        };
-        this.data.objTemp = temp;
-        this.getData();
-    };
-    SubjectsComponent.prototype.addNewStudent = function (student) {
-        var _this = this;
-        var temp = {
-            "year": student.year || '',
-            "semester": student.semester || '',
-            "course": student.course || '',
-            "department": student.department || '',
-            "subjectName": student.subjectName || '',
-            "businessId": this.dataService.user.businessId
-        };
-        //"nextPaymentDate": this.dataService.convertDate(student.nextPaymentDate, true),
-        var url = "admin/addSubjects";
-        this.dataService.getData(url, temp).subscribe(function (results) {
-            if (!results || results.code === -1) {
-                _this.snackBar.open('Error Adding Subject', 'Ok', {
-                    duration: 5000,
-                });
-                return;
-            }
-            _this.onSearch(temp);
-            _this.flip();
-            _this.dataService.getDetails();
-        });
-    };
-    SubjectsComponent.prototype.onDelete = function (flag) {
-        this.snackBar.open('Subject Record ' + flag + ' Succesfully', 'Ok', {
-            duration: 5000,
-        });
-        this.callGrid = false;
-        this.getData();
-    };
-    SubjectsComponent.prototype.flip = function () {
-        $('.card').toggleClass('flipped');
-        this.frontVisible = !this.frontVisible;
-    };
-    SubjectsComponent = __decorate([
-        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Component"])({
-            selector: 'subjects',
-            template: __webpack_require__("./src/app/modules/admin/subjects/subjects.component.html"),
-            styles: [__webpack_require__("./src/app/modules/admin/subjects/subjects.component.scss")]
-        }),
-        __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1__services_data_service__["a" /* DataService */], __WEBPACK_IMPORTED_MODULE_2__angular_material__["D" /* MatSnackBar */]])
-    ], SubjectsComponent);
-    return SubjectsComponent;
-}());
-
-
-
-/***/ }),
-
-/***/ "./src/app/modules/admin/transport/transport.component.html":
-/***/ (function(module, exports) {
-
-module.exports = "<p>\n  transport works!\n</p>\n"
-
-/***/ }),
-
-/***/ "./src/app/modules/admin/transport/transport.component.scss":
-/***/ (function(module, exports) {
-
-module.exports = ""
-
-/***/ }),
-
-/***/ "./src/app/modules/admin/transport/transport.component.ts":
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return TransportComponent; });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__("./node_modules/@angular/core/esm5/core.js");
-var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
-    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
-    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
-    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
-    return c > 3 && r && Object.defineProperty(target, key, r), r;
-};
-var __metadata = (this && this.__metadata) || function (k, v) {
-    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
-};
-
-var TransportComponent = /** @class */ (function () {
-    function TransportComponent() {
-    }
-    TransportComponent.prototype.ngOnInit = function () {
-    };
-    TransportComponent = __decorate([
-        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Component"])({
-            selector: 'app-transport',
-            template: __webpack_require__("./src/app/modules/admin/transport/transport.component.html"),
-            styles: [__webpack_require__("./src/app/modules/admin/transport/transport.component.scss")]
-        }),
-        __metadata("design:paramtypes", [])
-    ], TransportComponent);
-    return TransportComponent;
-}());
-
-
-
-/***/ }),
-
 /***/ "./src/app/modules/admin/units-management/units-management.component.html":
 /***/ (function(module, exports) {
 
@@ -6813,11 +3791,83 @@ var UnitsManagementComponent = /** @class */ (function () {
         this.fields = [];
         this.newRecord = {};
         this.years = [];
+        this.staff = [];
+        this.phase = [];
     }
     UnitsManagementComponent.prototype.ngOnInit = function () {
         this.dataService.getDetails();
         this.user = this.dataService.user;
-        this.getData();
+        this.setValues();
+    };
+    UnitsManagementComponent.prototype.setValues = function () {
+        var _this = this;
+        this.dataService.getRequest('staffs').subscribe(function (results) {
+            for (var i = 0; i < results.length; i++) {
+                _this.staff.push({ id: results[0].id, value: results[0].firstName + results[0].lastName });
+            }
+            _this.dataService.getRequest('phase').subscribe(function (results) {
+                for (var i_1 = 0; i_1 < results.length; i_1++) {
+                    _this.phase.push({ id: results[0].id, value: results[0].phase });
+                }
+                _this.fields = [
+                    {
+                        field: 'employees',
+                        label: 'Employees',
+                        element: 'dropdown',
+                        hide: false,
+                        editable: true,
+                        update: true,
+                        value: true,
+                        values: _this.staff,
+                        multiple: true
+                    },
+                    {
+                        field: 'id',
+                        label: 'Unit Id',
+                        element: 'input',
+                        remove: true,
+                        updateField: true,
+                        hide: true,
+                        editable: false,
+                        update: true
+                    },
+                    {
+                        field: 'noOfCattles',
+                        label: 'Number Of Cattles',
+                        element: 'number',
+                        hide: false,
+                        editable: true,
+                        update: true
+                    },
+                    {
+                        field: 'phase',
+                        label: 'Phase',
+                        element: 'dropdown',
+                        hide: false,
+                        editable: true,
+                        value: true,
+                        values: _this.phase,
+                        update: true
+                    },
+                    {
+                        field: 'unit',
+                        label: 'Unit',
+                        element: 'input',
+                        hide: false,
+                        editable: true,
+                        update: true
+                    },
+                    {
+                        field: 'actions',
+                        label: 'Actions',
+                        element: '',
+                        hide: false,
+                        editable: true
+                    }
+                ];
+                _this.getData();
+            });
+        });
     };
     UnitsManagementComponent.prototype.ngAfterContentChecked = function () {
         this.getHeightWidth();
@@ -6838,57 +3888,6 @@ var UnitsManagementComponent = /** @class */ (function () {
         this.data.deleteUrl = 'unit/';
         this.data.deleteMethod = true;
         this.data.editUrl = 'unit';
-        this.fields = [
-            {
-                field: 'employees',
-                label: 'Employees',
-                element: 'input',
-                hide: true,
-                editable: false,
-                update: true
-            },
-            {
-                field: 'id',
-                label: 'Unit Id',
-                element: 'input',
-                remove: true,
-                updateField: true,
-                hide: true,
-                editable: false,
-                update: true
-            },
-            {
-                field: 'noOfCattles',
-                label: 'Number Of Cattles',
-                element: 'number',
-                hide: false,
-                editable: true,
-                update: true
-            },
-            {
-                field: 'phase',
-                label: 'Phase',
-                element: 'input',
-                hide: false,
-                editable: true,
-                update: true
-            },
-            {
-                field: 'unit',
-                label: 'Unit',
-                element: 'input',
-                hide: false,
-                editable: true,
-                update: true
-            },
-            {
-                field: 'actions',
-                label: 'Actions',
-                element: '',
-                hide: false,
-                editable: true
-            }
-        ];
         this.data.data = [];
         this.dataService.getRequest(url).subscribe(function (results) {
             if (!results.length) {
@@ -6905,7 +3904,8 @@ var UnitsManagementComponent = /** @class */ (function () {
         var temp = {
             "noOfCattles": student.noOfCattles,
             "phase": student.phase,
-            "unit": student.unit
+            "unit": student.unit,
+            "employees": student.employees
         };
         var url = "unit";
         this.data.data = [];
@@ -6940,6 +3940,7 @@ var UnitsManagementComponent = /** @class */ (function () {
         this.getData();
     };
     UnitsManagementComponent.prototype.flip = function () {
+        this.setValues();
         $('.card').toggleClass('flipped');
         this.frontVisible = !this.frontVisible;
     };
@@ -7039,10 +4040,18 @@ var DataService = /** @class */ (function () {
         this.serviceURL = 'https://randomapi.com/api/6de6abfedb24f889e0b5f675edc50deb?fmt=raw&sole';
         this.commonUrl = 'http://13.127.175.211:8088/magnus-management/v1.0/';
     }
+    DataService.prototype.uploadFile = function (fileToUpload) {
+        var _formData = new FormData();
+        _formData.append('file', fileToUpload, fileToUpload.name);
+        var a = this.http.post('http://13.127.175.211:8088/magnus-management/v1.0/file', _formData); //note: no HttpHeaders passed as 3d param to POST!
+        //So no Content-Type constructed manually.
+        //Angular 4.3/4.x does it automatically.
+        return a;
+    };
     DataService.prototype.reset = function (details) {
         var _this = this;
         var url = "forgetPassword";
-        this.getData(url, details).subscribe(function (results) {
+        this.putData(this.commonUrl + url, details).subscribe(function (results) {
             if (results.code === -1) {
                 _this.snackBar.open(results.message, 'Ok', {
                     duration: 5000,
@@ -7235,7 +4244,7 @@ var TodoDataService = /** @class */ (function () {
                 _this.todos = [];
                 return;
             }
-            _this.todos = results.data;
+            _this.todos = results;
             return _this.todos;
         });
     };
